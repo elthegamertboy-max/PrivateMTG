@@ -1,0 +1,29 @@
+{
+    "additionalLanguages": ["fr"],
+    "en": {
+        "Gameplay": {
+            "2HG": "Two-Headed Giant",
+            "2HG_EDH": "Two-Headed Giant - EDH",
+            "f.treachery": "Treachery - 5 players"
+        },
+        "Deckbuilding": {
+            "collector_number": "Collector number"
+        }
+    },
+    "fr": {
+        "Gameplay": {
+            "2HG": "Two-Headed Giant",
+            "2HG_EDH": "Two-Headed Giant - EDH",
+            "f.treachery": "Treachery - 5 joueurs"
+        },
+        "Deckbuilding": {
+            "name": "Nom",
+            "Colors": "Couleurs",
+            "Card type": "Sous type",
+            "Color identity": "Identité de couleur",
+            "set": "Set",
+            "collector_number": "Collector number",
+            "cost": "Coût"
+        }
+    }
+}
