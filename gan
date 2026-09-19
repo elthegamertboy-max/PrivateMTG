@@ -5,7 +5,7 @@
         "cardCount": 100,
         "createdAt": "2026-04-04T15:59:56.928Z",
         "lastModifiedAt": "2026-04-04T16:05:40.667Z",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -384,7 +384,7 @@
         "cardCount": 100,
         "createdAt": "2026-04-04T15:59:56.928Z",
         "lastModifiedAt": "2026-04-04T16:04:35.317Z",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -771,7 +771,7 @@
         "cardCount": 100,
         "createdAt": "2026-04-04T15:59:56.928Z",
         "lastModifiedAt": "2026-04-04T16:01:36.779Z",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -1166,7 +1166,7 @@
         "cardCount": 100,
         "createdAt": "2026-04-04T15:59:56.928Z",
         "lastModifiedAt": "2026-04-04T16:01:36.779Z",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -1549,7 +1549,7 @@
         "cardCount": 100,
         "createdAt": "2026-04-04T15:59:56.928Z",
         "lastModifiedAt": "2026-04-04T16:00:09.722Z",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -1932,7 +1932,7 @@
     {
         "title": "TMT - Turtle Power!",
         "id": "TMT - Turtle Power!",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -2347,7 +2347,7 @@
     {
         "title": "ECL - Dance of the Elements",
         "id": "ECL - Dance of the Elements",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH"
         ],
@@ -2743,7 +2743,7 @@
     {
         "title": "ECL - Blight Curse",
         "id": "ECL - Blight Curse",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH"
         ],
@@ -3123,7 +3123,7 @@
     {
         "title": "EOE - World Shaper",
         "id": "EOE - World Shaper",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -3511,7 +3511,7 @@
     {
         "title": "EOE - Counter Intelligence",
         "id": "EOE - Counter Intelligence",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -3927,7 +3927,7 @@
     {
         "title": "FIN - Scions & Spellcraft",
         "id": "Scions & Spellcraft",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -4338,7 +4338,7 @@
     {
         "title": "FIN - Counter Blitz",
         "id": "Counter Blitz",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -4754,7 +4754,7 @@
     {
         "title": "FIN - Limit Break",
         "id": "Limit Break",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -5170,7 +5170,7 @@
     {
         "title": "FIN - Revival Trance",
         "id": "Revival Trance",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "EDH",
             "2HG_EDH",
@@ -5579,7 +5579,7 @@
     {
         "title": "BLB - Otter Limits",
         "id": "Otter Limits",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "Modern",
             "Vintage",
@@ -5692,7 +5692,7 @@
     {
         "title": "BLB - Hare Raising",
         "id": "Hare Raising",
-        "game": "Magic the Gathering",
+        "game": "Magic is the Fuckering",
         "format": [
             "Modern",
             "Vintage",
@@ -7763,7 +7763,7 @@
     {
         "title": "J25 - Chaos",
         "id": "J25 - Chaos",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -7863,7 +7863,7 @@
     {
         "title": "J25 - Giddyap",
         "id": "J25 - Giddyap",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -7947,7 +7947,7 @@
     {
         "title": "J25 - Prideful",
         "id": "J25 - Prideful",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8034,7 +8034,7 @@
     {
         "title": "J25 - Angels 1",
         "id": "J25 - Angels 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8121,7 +8121,7 @@
     {
         "title": "J25 - Heroes 1",
         "id": "J25 - Heroes 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8205,7 +8205,7 @@
     {
         "title": "J25 - Legion 1",
         "id": "J25 - Legion 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8292,7 +8292,7 @@
     {
         "title": "J25 - Armed 1",
         "id": "J25 - Armed 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8379,7 +8379,7 @@
     {
         "title": "J25 - Enchanted 1",
         "id": "J25 - Enchanted 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8463,7 +8463,7 @@
     {
         "title": "J25 - Healers 1",
         "id": "J25 - Healers 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8551,7 +8551,7 @@
     {
         "title": "J25 - Stalwart 1",
         "id": "J25 - Stalwart 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8638,7 +8638,7 @@
     {
         "title": "J25 - Illusions",
         "id": "J25 - Illusions",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8722,7 +8722,7 @@
     {
         "title": "J25 - Ninjas",
         "id": "J25 - Ninjas",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8806,7 +8806,7 @@
     {
         "title": "J25 - Drowned 1",
         "id": "J25 - Drowned 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8897,7 +8897,7 @@
     {
         "title": "J25 - Of the Coast 1",
         "id": "J25 - Of the Coast 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -8988,7 +8988,7 @@
     {
         "title": "J25 - Wizards 1",
         "id": "J25 - Wizards 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9075,7 +9075,7 @@
     {
         "title": "J25 - Bookworms 1",
         "id": "J25 - Bookworms 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9165,7 +9165,7 @@
     {
         "title": "J25 - Inventive 1",
         "id": "J25 - Inventive 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9253,7 +9253,7 @@
     {
         "title": "J25 - Soaring 1",
         "id": "J25 - Soaring 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9340,7 +9340,7 @@
     {
         "title": "J25 - Surprise! 1",
         "id": "J25 - Surprise! 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9424,7 +9424,7 @@
     {
         "title": "J25 - Nefarious",
         "id": "J25 - Nefarious",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9511,7 +9511,7 @@
     {
         "title": "J25 - Snakes",
         "id": "J25 - Snakes",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9598,7 +9598,7 @@
     {
         "title": "J25 - Icky 1",
         "id": "J25 - Icky 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9682,7 +9682,7 @@
     {
         "title": "J25 - Ne'er-do-wells 1",
         "id": "J25 - Ne'er-do-wells 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9769,7 +9769,7 @@
     {
         "title": "J25 - Treasures 1",
         "id": "J25 - Treasures 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9856,7 +9856,7 @@
     {
         "title": "J25 - Clerics 1",
         "id": "J25 - Clerics 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -9940,7 +9940,7 @@
     {
         "title": "J25 - Ghastly 1",
         "id": "J25 - Ghastly 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10024,7 +10024,7 @@
     {
         "title": "J25 - Grave Robbers 1",
         "id": "J25 - Grave Robbers 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10108,7 +10108,7 @@
     {
         "title": "J25 - Vampires 1",
         "id": "J25 - Vampires 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10195,7 +10195,7 @@
     {
         "title": "J25 - Burning",
         "id": "J25 - Burning",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10279,7 +10279,7 @@
     {
         "title": "J25 - Too Many",
         "id": "J25 - Too Many",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10359,7 +10359,7 @@
     {
         "title": "J25 - Copied 1",
         "id": "J25 - Copied 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10443,7 +10443,7 @@
     {
         "title": "J25 - Dragons 1",
         "id": "J25 - Dragons 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10530,7 +10530,7 @@
     {
         "title": "J25 - Warriors 1",
         "id": "J25 - Warriors 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10621,7 +10621,7 @@
     {
         "title": "J25 - Stoked 1",
         "id": "J25 - Stoked 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10708,7 +10708,7 @@
     {
         "title": "J25 - Goblins 1",
         "id": "J25 - Goblins 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10792,7 +10792,7 @@
     {
         "title": "J25 - Bloody 1",
         "id": "J25 - Bloody 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10873,7 +10873,7 @@
     {
         "title": "J25 - Zealots 1",
         "id": "J25 - Zealots 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -10964,7 +10964,7 @@
     {
         "title": "J25 - Dinner",
         "id": "J25 - Dinner",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -11051,7 +11051,7 @@
     {
         "title": "J25 - Modified",
         "id": "J25 - Modified",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -11142,7 +11142,7 @@
     {
         "title": "J25 - Beasts 1",
         "id": "J25 - Beasts 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -11226,7 +11226,7 @@
     {
         "title": "J25 - Dinosaurs 1",
         "id": "J25 - Dinosaurs 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -11310,7 +11310,7 @@
     {
         "title": "J25 - Fun Guys 1",
         "id": "J25 - Fun Guys 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -11397,7 +11397,7 @@
     {
         "title": "J25 - Elves 1",
         "id": "J25 - Elves 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -11481,7 +11481,7 @@
     {
         "title": "J25 - Encounter 1",
         "id": "J25 - Encounter 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -11568,7 +11568,7 @@
     {
         "title": "J25 - Explorers 1",
         "id": "J25 - Explorers 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
@@ -11652,7 +11652,7 @@
     {
         "title": "J25 - Landfall 1",
         "id": "J25 - Landfall 1",
-        "game": "Magic the Gathering - Test",
+        "game": "Magic is the Fuckering - Test",
         "format": [
             "Jumpstart"
         ],
