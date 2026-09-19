@@ -1277,7 +1277,7 @@
   ],
   "customHelp": "The app will tap cards in your mana section without looking at colors when paying the cost of cards. It will consider all cards in the resource section like a card that produce 1 mana (artifacts producing mana can be put in this section to be used automatically when paying mana costs). If you are expecting reactions from a permanent you play, remember that all cards can be put in the stack to resolve interactions.",
   "cards": {
-    "dataUrl": "https://valcur.github.io/TCG-Arena-MTG/MTGCards.json",
+    "dataUrl": "https://github.com/elthegamertboy-max/PrivateMTG/MTGCards.json",
     "cardBack": "https://backs.scryfall.io/large/2/2/222b7a3b-2321-4d4c-af19-19338b134971.jpg",
     "version": 36
   },
