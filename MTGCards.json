@@ -1,18 +1,21 @@
 {
-  "playfulsprite": {
-    "id": "playfulsprite",
+  "playful-sprite": {
+    "id": "playful-sprite",
     "face": {
       "front": {
         "name": {
-          "Playful Sprite": "PlayfulSprite"
+          "name": "Playful Sprite"
         },
-        "type": "Black",
-        "cost": 0,
+        "type": "Blue",
+        "cost": 3,
         "image": "https://www.planesculptors.net/upload/5219/14958/Playful%20Sprite.jpg"
       }
     },
     "name": "Playful Sprite",
-    "type": "Black",
-    "cost": 0
+    "type": "Blue",
+    "cost": 3,
+    "_legal": {
+      "COMMANDER": true
+    }
   }
 }
