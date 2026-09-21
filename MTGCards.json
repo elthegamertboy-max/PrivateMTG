@@ -6,15 +6,15 @@
         "name": {
           "name": "Playful Sprite"
         },
-        "type": "Creature — Faerie",
-        "colors": ["Blue"],
+        "type": "Creature",
+        "colors": "U",
         "cost": 3,
         "image": "https://www.planesculptors.net/upload/5219/14958/Playful%20Sprite.jpg"
       }
     },
     "name": "Playful Sprite",
-    "type": "Creature — Faerie",
-    "colors": ["Blue"],
+    "type": "Creature",
+    "colors": "U",
     "cost": 3,
     "_legal": {
       "EDH": true
