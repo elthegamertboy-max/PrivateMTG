@@ -1,4 +1,46 @@
 {
+  "puff": {
+    "id": "puff",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Puff"
+        },
+        "type": "Artifact",
+        "colors": "U",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Puff.png"
+      }
+    },
+    "name": "Ellie The Baker Bear",
+    "type": "Creature",
+    "colors": "U",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ellie-the-baker-bear": {
+    "id": "ellie-the-baker-bear",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ellie The Baker Bear"
+        },
+        "type": "Creature",
+        "colors": "U",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Ellie%20The%20Baker%20Bear.png"
+      }
+    },
+    "name": "Ellie The Baker Bear",
+    "type": "Creature",
+    "colors": "U",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
   "playful-sprite": {
     "id": "playful-sprite",
     "face": {
