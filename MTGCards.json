@@ -1,4 +1,319 @@
 {
+  "akromas-will": {
+    "id": "akromas-will",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Akroma's Will"
+        },
+        "type": "Instant",
+        "colors": "W",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Akromas_Will.jpg"
+      }
+    },
+    "name": "Akroma's Will",
+    "type": "Instant",
+    "colors": "W",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "celebr-8000": {
+    "id": "celebr-8000",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Celebr-8000"
+        },
+        "type": "Artifact",
+        "colors": "#",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Celebra-8000.png"
+      }
+    },
+    "name": "Celebr-8000",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "chalice-of-life": {
+    "id": "chalice-of-life",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Chalice of Life"
+        },
+        "type": "Artifact",
+        "colors": "#",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Chalice_of_Life.png"
+      }
+    },
+    "name": "Chalice of Life",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "clowning-around": {
+    "id": "clowning-around",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Clowning Around"
+        },
+        "type": "Sorcery",
+        "colors": "W",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Clowning_Around.png"
+      }
+    },
+    "name": "Clowning Around",
+    "type": "Sorcery",
+    "colors": "W",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "elendas-hierophant": {
+    "id": "elendas-hierophant",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Elenda's Hierophant"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Elendas_Hierophant.jpg"
+      }
+    },
+    "name": "Elenda's Hierophant",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "emeria-the-sky-ruin": {
+    "id": "emeria-the-sky-ruin",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Emeria, the Sky Ruin"
+        },
+        "type": "Land",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Emeria_the_Sky_Ruin.png"
+      }
+    },
+    "name": "Emeria, the Sky Ruin",
+    "type": "Land",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "examplar-of-light": {
+    "id": "examplar-of-light",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Examplar of Light"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Examplar_of_Light.jpg"
+      }
+    },
+    "name": "Examplar of Light",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "felidar-sovereign": {
+    "id": "felidar-sovereign",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Felidar Sovereign"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Felidar_sovereign.png"
+      }
+    },
+    "name": "Felidar Sovereign",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 6,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "restoration-magic": {
+    "id": "restoration-magic",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Restoration Magic"
+        },
+        "type": "Instant",
+        "colors": "W",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Restoration_Magic.jpg"
+      }
+    },
+    "name": "Restoration Magic",
+    "type": "Instant",
+    "colors": "W",
+    "cost": 1,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "serra-ascendant": {
+    "id": "serra-ascendant",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Serra Ascendant"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Serra_Ascendant.jpg"
+      }
+    },
+    "name": "Serra Ascendant",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 1,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sol-ring": {
+    "id": "sol-ring",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sol Ring"
+        },
+        "type": "Artifact",
+        "colors": "#",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Sol_Ring.png"
+      }
+    },
+    "name": "Sol Ring",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 1,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "swiftfoot-boots": {
+    "id": "swiftfoot-boots",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Swiftfoot Boots"
+        },
+        "type": "Artifact",
+        "colors": "#",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Swiftfoot_Boots.png"
+      }
+    },
+    "name": "Swiftfoot Boots",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "the-gaffer": {
+    "id": "the-gaffer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Gaffer"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/The_Gaffer.jpg"
+      }
+    },
+    "name": "The Gaffer",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "thunder-totem": {
+    "id": "thunder-totem",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Thunder Totem"
+        },
+        "type": "Artifact",
+        "colors": "#",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Thunder_Totem.png"
+      }
+    },
+    "name": "Thunder Totem",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "wayfarers-bauble": {
+    "id": "wayfarers-bauble",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wayfarer's Bauble"
+        },
+        "type": "Artifact",
+        "colors": "#",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Wayfarers_Bauble.png"
+      }
+    },
+    "name": "Wayfarer's Bauble",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 1,
+    "_legal": {
+      "EDH": true
+    }
+  },
   "puff": {
     "id": "puff",
     "face": {
@@ -12,10 +327,10 @@
         "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Puff.png"
       }
     },
-    "name": "Ellie The Baker Bear",
-    "type": "Creature",
-    "colors": "U",
-    "cost": 4,
+    "name": "puff",
+    "type": "Artifact",
+    "colors": "B",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
