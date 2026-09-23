@@ -4122,16 +4122,16 @@
         "name": {
           "name": "Nararoot"
         },
-        "type": "Artifact",
+        "type": "Creature",
         "colors": "#",
-        "cost": 1,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Nararoot.jpg"
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Nararoot.jpg.jpeg"
       }
     },
     "name": "Nararoot",
-    "type": "Artifact",
+    "type": "Creature",
     "colors": "#",
-    "cost": 1,
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -4752,16 +4752,16 @@
         "name": {
           "name": "Cassil Extract"
         },
-        "type": "Artifact",
+        "type": "Creature",
         "colors": "#",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Cassil%20Extract.jpg"
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Cassil%20Extract.jpg.jpeg"
       }
     },
     "name": "Cassil Extract",
-    "type": "Artifact",
+    "type": "Creature",
     "colors": "#",
-    "cost": 3,
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -4794,14 +4794,14 @@
         "name": {
           "name": "Streets of Acribis"
         },
-        "type": "Land",
+        "type": "Creature",
         "colors": "#",
         "cost": 0,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Streets%20of%20Acribis.jpg"
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Streets%20of%20Acribis.jpg.jpeg"
       }
     },
     "name": "Streets of Acribis",
-    "type": "Land",
+    "type": "Creature",
     "colors": "#",
     "cost": 0,
     "_legal": {
@@ -7966,15 +7966,15 @@
           "name": "Lewd Enchantress"
         },
         "type": "Creature",
-        "colors": "W",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Lewd%20Enchantress.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lewd%20Enchantress.jpg.jpeg"
       }
     },
     "name": "Lewd Enchantress",
     "type": "Creature",
-    "colors": "W",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8050,15 +8050,15 @@
           "name": "Apprentice Witch"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Apprentice%20Witch.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Apprentice%20Witch.jpg.jpeg"
       }
     },
     "name": "Apprentice Witch",
     "type": "Creature",
-    "colors": "G",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8092,15 +8092,15 @@
           "name": "Extraction Teacher"
         },
         "type": "Creature",
-        "colors": "U",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Extraction%20Teacher.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Extraction%20Teacher.jpg.jpeg"
       }
     },
     "name": "Extraction Teacher",
     "type": "Creature",
-    "colors": "U",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8155,15 +8155,15 @@
           "name": "Bonded Soldiers"
         },
         "type": "Creature",
-        "colors": "W",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Bonded%20Soldiers.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Bonded%20Soldiers.jpg.jpeg"
       }
     },
     "name": "Bonded Soldiers",
     "type": "Creature",
-    "colors": "W",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8176,15 +8176,15 @@
           "name": "Patient Consort"
         },
         "type": "Creature",
-        "colors": "R",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Patient%20Consort.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Patient%20Consort.jpg.jpeg"
       }
     },
     "name": "Patient Consort",
     "type": "Creature",
-    "colors": "R",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8197,15 +8197,15 @@
           "name": "Soaring Apprentice"
         },
         "type": "Creature",
-        "colors": "U",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Soaring%20Apprentice.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Soaring%20Apprentice.jpg.jpeg"
       }
     },
     "name": "Soaring Apprentice",
     "type": "Creature",
-    "colors": "U",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8239,15 +8239,15 @@
           "name": "Cult Initiator"
         },
         "type": "Creature",
-        "colors": "B",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Cult%20Initiator.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Cult%20Initiator.jpg.jpeg"
       }
     },
     "name": "Cult Initiator",
     "type": "Creature",
-    "colors": "B",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8302,15 +8302,15 @@
           "name": "Field Punisher"
         },
         "type": "Creature",
-        "colors": "W",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Field%20Punisher.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Field%20Punisher.jpg.jpeg"
       }
     },
     "name": "Field Punisher",
     "type": "Creature",
-    "colors": "W",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8344,15 +8344,15 @@
           "name": "Demonic Infiltrator"
         },
         "type": "Creature",
-        "colors": "B",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Demonic%20Infiltrator.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Demonic%20Infiltrator.jpg.jpeg"
       }
     },
     "name": "Demonic Infiltrator",
     "type": "Creature",
-    "colors": "B",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8386,15 +8386,15 @@
           "name": "Selfless Professor"
         },
         "type": "Creature",
-        "colors": "U",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Selfless%20Professor.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Selfless%20Professor.jpg.jpeg"
       }
     },
     "name": "Selfless Professor",
     "type": "Creature",
-    "colors": "U",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8407,15 +8407,15 @@
           "name": "Anatomy Major"
         },
         "type": "Creature",
-        "colors": "U",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Anatomy%20Major.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Anatomy%20Major.jpg.jpeg"
       }
     },
     "name": "Anatomy Major",
     "type": "Creature",
-    "colors": "U",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8428,15 +8428,15 @@
           "name": "Novice Sorceress"
         },
         "type": "Creature",
-        "colors": "R",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Novice%20Sorceress.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Novice%20Sorceress.jpg.jpeg"
       }
     },
     "name": "Novice Sorceress",
     "type": "Creature",
-    "colors": "R",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8449,15 +8449,15 @@
           "name": "Forbidden Researcher"
         },
         "type": "Creature",
-        "colors": "U",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Forbidden%20Researcher.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Forbidden%20Researcher.jpg.jpeg"
       }
     },
     "name": "Forbidden Researcher",
     "type": "Creature",
-    "colors": "U",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8491,15 +8491,15 @@
           "name": "Eager Trainee"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Eager%20Trainee.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Eager%20Trainee.jpg.jpeg"
       }
     },
     "name": "Eager Trainee",
     "type": "Creature",
-    "colors": "G",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8512,15 +8512,15 @@
           "name": "Lustful Tactician"
         },
         "type": "Creature",
-        "colors": "W",
-        "cost": 1,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Lustful%20Tactician.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lustful%20Tactician.jpg.jpeg"
       }
     },
     "name": "Lustful Tactician",
     "type": "Creature",
-    "colors": "W",
-    "cost": 1,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8533,15 +8533,15 @@
           "name": "Demonic Medium"
         },
         "type": "Creature",
-        "colors": "B",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Demonic%20Medium.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Demonic%20Medium.jpg.jpeg"
       }
     },
     "name": "Demonic Medium",
     "type": "Creature",
-    "colors": "B",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8554,15 +8554,15 @@
           "name": "Towering Fiend"
         },
         "type": "Creature",
-        "colors": "B",
-        "cost": 5,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Towering%20Fiend.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Towering%20Fiend.jpg.jpeg"
       }
     },
     "name": "Towering Fiend",
     "type": "Creature",
-    "colors": "B",
-    "cost": 5,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8617,15 +8617,15 @@
           "name": "Caregiving Physician"
         },
         "type": "Creature",
-        "colors": "W",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Caregiving%20Physician.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Caregiving%20Physician.jpg.jpeg"
       }
     },
     "name": "Caregiving Physician",
     "type": "Creature",
-    "colors": "W",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8638,15 +8638,15 @@
           "name": "Eager First Year"
         },
         "type": "Creature",
-        "colors": "U",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Eager%20First%20Year.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Eager%20First%20Year.jpg.jpeg"
       }
     },
     "name": "Eager First Year",
     "type": "Creature",
-    "colors": "U",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8701,15 +8701,15 @@
           "name": "Hands-on Cleric"
         },
         "type": "Creature",
-        "colors": "W",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Hands-on%20Cleric.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Hands-on%20Cleric.jpg.jpeg"
       }
     },
     "name": "Hands-on Cleric",
     "type": "Creature",
-    "colors": "W",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8722,15 +8722,15 @@
           "name": "Impatient Recruit"
         },
         "type": "Creature",
-        "colors": "R",
-        "cost": 1,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Impatient%20Recruit.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Impatient%20Recruit.jpg.jpeg"
       }
     },
     "name": "Impatient Recruit",
     "type": "Creature",
-    "colors": "R",
-    "cost": 1,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8743,15 +8743,15 @@
           "name": "Passionate Wildlings"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 1,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Passionate%20Wildlings.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Passionate%20Wildlings.jpg.jpeg"
       }
     },
     "name": "Passionate Wildlings",
     "type": "Creature",
-    "colors": "G",
-    "cost": 1,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8764,15 +8764,15 @@
           "name": "Academic Partygoer"
         },
         "type": "Creature",
-        "colors": "U",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Academic%20Partygoer.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Academic%20Partygoer.jpg.jpeg"
       }
     },
     "name": "Academic Partygoer",
     "type": "Creature",
-    "colors": "U",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8785,15 +8785,15 @@
           "name": "Dedicated Consort"
         },
         "type": "Creature",
-        "colors": "R",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Dedicated%20Consort.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Dedicated%20Consort.jpg.jpeg"
       }
     },
     "name": "Dedicated Consort",
     "type": "Creature",
-    "colors": "R",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8890,15 +8890,15 @@
           "name": "Helpful Recruit"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 5,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Helpful%20Recruit.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Helpful%20Recruit.jpg.jpeg"
       }
     },
     "name": "Helpful Recruit",
     "type": "Creature",
-    "colors": "G",
-    "cost": 5,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8911,15 +8911,15 @@
           "name": "Passionate Knight"
         },
         "type": "Creature",
-        "colors": "W",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Passionate%20Knight.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Passionate%20Knight.jpg.jpeg"
       }
     },
     "name": "Passionate Knight",
     "type": "Creature",
-    "colors": "W",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8932,15 +8932,15 @@
           "name": "Wild Celebrant"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Wild%20Celebrant.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Wild%20Celebrant.jpg.jpeg"
       }
     },
     "name": "Wild Celebrant",
     "type": "Creature",
-    "colors": "G",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -8974,15 +8974,15 @@
           "name": "Mist Selkies"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Mist%20Selkies.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Mist%20Selkies.jpg.jpeg"
       }
     },
     "name": "Mist Selkies",
     "type": "Creature",
-    "colors": "G",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9121,15 +9121,15 @@
           "name": "Wildling Giantess"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 6,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Wildling%20Giantess.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Wildling%20Giantess.jpg.jpeg"
       }
     },
     "name": "Wildling Giantess",
     "type": "Creature",
-    "colors": "G",
-    "cost": 6,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9142,15 +9142,15 @@
           "name": "Bed Breaker"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Bed%20Breaker.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Bed%20Breaker.jpg.jpeg"
       }
     },
     "name": "Bed Breaker",
     "type": "Creature",
-    "colors": "G",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9205,15 +9205,15 @@
           "name": "Restless Consorts"
         },
         "type": "Creature",
-        "colors": "B",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Restless%20Consorts.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Restless%20Consorts.jpg.jpeg"
       }
     },
     "name": "Restless Consorts",
     "type": "Creature",
-    "colors": "B",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9226,15 +9226,15 @@
           "name": "Puzzled Lover"
         },
         "type": "Creature",
-        "colors": "R",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Puzzled%20Lover.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Puzzled%20Lover.jpg.jpeg"
       }
     },
     "name": "Puzzled Lover",
     "type": "Creature",
-    "colors": "R",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9268,15 +9268,15 @@
           "name": "Goblin Courtesan"
         },
         "type": "Creature",
-        "colors": "R",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Goblin%20Courtesan.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Courtesan.jpg.jpeg"
       }
     },
     "name": "Goblin Courtesan",
     "type": "Creature",
-    "colors": "R",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9310,15 +9310,15 @@
           "name": "Vigilant Captain"
         },
         "type": "Creature",
-        "colors": "W",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Vigilant%20Captain.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Vigilant%20Captain.jpg.jpeg"
       }
     },
     "name": "Vigilant Captain",
     "type": "Creature",
-    "colors": "W",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9352,15 +9352,15 @@
           "name": "Impulsive Buyer"
         },
         "type": "Creature",
-        "colors": "U",
-        "cost": 4,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Impulsive%20Buyer.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Impulsive%20Buyer.jpg.jpeg"
       }
     },
     "name": "Impulsive Buyer",
     "type": "Creature",
-    "colors": "U",
-    "cost": 4,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9373,15 +9373,15 @@
           "name": "Sensation Experts"
         },
         "type": "Creature",
-        "colors": "R",
-        "cost": 1,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Sensation%20Experts.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Sensation%20Experts.jpg.jpeg"
       }
     },
     "name": "Sensation Experts",
     "type": "Creature",
-    "colors": "R",
-    "cost": 1,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9436,15 +9436,15 @@
           "name": "Agent of House Vasir"
         },
         "type": "Creature",
-        "colors": "B",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Agent%20of%20House%20Vasir.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Agent%20of%20House%20Vasir.jpg.jpeg"
       }
     },
     "name": "Agent of House Vasir",
     "type": "Creature",
-    "colors": "B",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9562,15 +9562,15 @@
           "name": "Seductive Tactician"
         },
         "type": "Creature",
-        "colors": "R",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Seductive%20Tactician.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Seductive%20Tactician.jpg.jpeg"
       }
     },
     "name": "Seductive Tactician",
     "type": "Creature",
-    "colors": "R",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -9604,15 +9604,15 @@
           "name": "Flustered Druid"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 3,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Flustered%20Druid.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Flustered%20Druid.jpg.jpeg"
       }
     },
     "name": "Flustered Druid",
     "type": "Creature",
-    "colors": "G",
-    "cost": 3,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -10024,15 +10024,15 @@
           "name": "Desperate Occultist"
         },
         "type": "Creature",
-        "colors": "B",
-        "cost": 1,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Desperate%20Occultist.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Desperate%20Occultist.jpg.jpeg"
       }
     },
     "name": "Desperate Occultist",
     "type": "Creature",
-    "colors": "B",
-    "cost": 1,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -10696,15 +10696,15 @@
           "name": "Brawny Companion"
         },
         "type": "Creature",
-        "colors": "G",
-        "cost": 4,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Brawny%20Companion.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Brawny%20Companion.jpg.jpeg"
       }
     },
     "name": "Brawny Companion",
     "type": "Creature",
-    "colors": "G",
-    "cost": 4,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -10990,15 +10990,15 @@
           "name": "Ardent Lover"
         },
         "type": "Creature",
-        "colors": "W",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Ardent%20Lover.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Ardent%20Lover.jpg.jpeg"
       }
     },
     "name": "Ardent Lover",
     "type": "Creature",
-    "colors": "W",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -11011,15 +11011,15 @@
           "name": "Heartbreaker"
         },
         "type": "Creature",
-        "colors": "U",
-        "cost": 1,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Heartbreaker.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Heartbreaker.jpg.jpeg"
       }
     },
     "name": "Heartbreaker",
     "type": "Creature",
-    "colors": "U",
-    "cost": 1,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -11032,15 +11032,15 @@
           "name": "Draining Thief"
         },
         "type": "Creature",
-        "colors": "B",
-        "cost": 2,
-        "image": "https://www.planesculptors.net/upload/5219/14958/Draining%20Thief.jpg"
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Draining%20Thief.jpg.jpeg"
       }
     },
     "name": "Draining Thief",
     "type": "Creature",
-    "colors": "B",
-    "cost": 2,
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
@@ -11146,6 +11146,5277 @@
     "type": "Creature",
     "colors": "U",
     "cost": 1,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "abberant-nightmare": {
+    "id": "abberant-nightmare",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Abberant Nightmare"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Abberant%20Nightmare.jpg.jpeg"
+      }
+    },
+    "name": "Abberant Nightmare",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "acriban-ballroom": {
+    "id": "acriban-ballroom",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Acriban Ballroom"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Acriban%20Ballroom.jpg.jpeg"
+      }
+    },
+    "name": "Acriban Ballroom",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "acriban-slavemistress": {
+    "id": "acriban-slavemistress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Acriban Slavemistress"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Acriban%20Slavemistress.jpg.jpeg"
+      }
+    },
+    "name": "Acriban Slavemistress",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "acribian-grand-ball": {
+    "id": "acribian-grand-ball",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Acribian Grand Ball"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Acribian%20Grand%20Ball.jpg.jpeg"
+      }
+    },
+    "name": "Acribian Grand Ball",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "adept-mentor": {
+    "id": "adept-mentor",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Adept Mentor"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Adept%20Mentor.jpg.jpeg"
+      }
+    },
+    "name": "Adept Mentor",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "aira-dark-prodigy": {
+    "id": "aira-dark-prodigy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Aira Dark Prodigy"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Aira%20Dark%20Prodigy.jpg.jpeg"
+      }
+    },
+    "name": "Aira Dark Prodigy",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "alleyway-seductress": {
+    "id": "alleyway-seductress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Alleyway Seductress"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Alleyway%20Seductress.jpg.jpeg"
+      }
+    },
+    "name": "Alleyway Seductress",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "alluring-companion": {
+    "id": "alluring-companion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Alluring Companion"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Alluring%20Companion.jpg.jpeg"
+      }
+    },
+    "name": "Alluring Companion",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "alone-in-your-room": {
+    "id": "alone-in-your-room",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Alone in Your Room"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Alone%20in%20Your%20Room.jpg.jpeg"
+      }
+    },
+    "name": "Alone in Your Room",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "amplified-experience": {
+    "id": "amplified-experience",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Amplified Experience"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Amplified%20Experience.jpg.jpeg"
+      }
+    },
+    "name": "Amplified Experience",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "answers-in-the-woods": {
+    "id": "answers-in-the-woods",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Answers in the Woods"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Answers%20in%20the%20Woods.jpg.jpeg"
+      }
+    },
+    "name": "Answers in the Woods",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "anya-hanali": {
+    "id": "anya-hanali",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Anya Hanali"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Anya%20Hanali.jpg.jpeg"
+      }
+    },
+    "name": "Anya Hanali",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "anyas-epiphany": {
+    "id": "anyas-epiphany",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Anyas Epiphany"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Anyas%20Epiphany.jpg.jpeg"
+      }
+    },
+    "name": "Anyas Epiphany",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "arastea-dryad-elder": {
+    "id": "arastea-dryad-elder",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Arastea Dryad Elder"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Arastea%20Dryad%20Elder.jpg.jpeg"
+      }
+    },
+    "name": "Arastea Dryad Elder",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "armed-recruit": {
+    "id": "armed-recruit",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Armed Recruit"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Armed%20Recruit.jpg.jpeg"
+      }
+    },
+    "name": "Armed Recruit",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "army-recruiter": {
+    "id": "army-recruiter",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Army Recruiter"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Army%20Recruiter.jpg.jpeg"
+      }
+    },
+    "name": "Army Recruiter",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "art-major": {
+    "id": "art-major",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Art Major"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Art%20Major.jpg.jpeg"
+      }
+    },
+    "name": "Art Major",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "awakened-treefolk": {
+    "id": "awakened-treefolk",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Awakened Treefolk"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Awakened%20Treefolk.jpg.jpeg"
+      }
+    },
+    "name": "Awakened Treefolk",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "benign-veteran": {
+    "id": "benign-veteran",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Benign Veteran"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Benign%20Veteran.jpg.jpeg"
+      }
+    },
+    "name": "Benign Veteran",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "binding-lover": {
+    "id": "binding-lover",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Binding Lover"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Binding%20Lover.jpg.jpeg"
+      }
+    },
+    "name": "Binding Lover",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "blessed-druid": {
+    "id": "blessed-druid",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blessed Druid"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Blessed%20Druid.jpg.jpeg"
+      }
+    },
+    "name": "Blessed Druid",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "blooming-druid": {
+    "id": "blooming-druid",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blooming Druid"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Blooming%20Druid.jpg.jpeg"
+      }
+    },
+    "name": "Blooming Druid",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "bondage-expert": {
+    "id": "bondage-expert",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bondage Expert"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Bondage%20Expert.jpg.jpeg"
+      }
+    },
+    "name": "Bondage Expert",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "bored-aristocrat": {
+    "id": "bored-aristocrat",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bored Aristocrat"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Bored%20Aristocrat.jpg.jpeg"
+      }
+    },
+    "name": "Bored Aristocrat",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "bound-apothecary": {
+    "id": "bound-apothecary",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bound Apothecary"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Bound%20Apothecary.jpg.jpeg"
+      }
+    },
+    "name": "Bound Apothecary",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "bratty-bully": {
+    "id": "bratty-bully",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bratty Bully"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Bratty%20Bully.jpg.jpeg"
+      }
+    },
+    "name": "Bratty Bully",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "break-from-training": {
+    "id": "break-from-training",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Break from Training"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Break%20from%20Training.jpg.jpeg"
+      }
+    },
+    "name": "Break from Training",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "breeding-trainer": {
+    "id": "breeding-trainer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Breeding Trainer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Breeding%20Trainer.jpg.jpeg"
+      }
+    },
+    "name": "Breeding Trainer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "byron-monster-tamer": {
+    "id": "byron-monster-tamer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Byron Monster Tamer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Byron%20Monster%20Tamer.jpg.jpeg"
+      }
+    },
+    "name": "Byron Monster Tamer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "captain-faylen": {
+    "id": "captain-faylen",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Captain Faylen"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Captain%20Faylen.jpg.jpeg"
+      }
+    },
+    "name": "Captain Faylen",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "carnal-alliance": {
+    "id": "carnal-alliance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Carnal Alliance"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Carnal%20Alliance.jpg.jpeg"
+      }
+    },
+    "name": "Carnal Alliance",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "carnal-banishment": {
+    "id": "carnal-banishment",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Carnal Banishment"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Carnal%20Banishment.jpg.jpeg"
+      }
+    },
+    "name": "Carnal Banishment",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "carnal-catastrophe": {
+    "id": "carnal-catastrophe",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Carnal Catastrophe"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Carnal%20Catastrophe.jpg.jpeg"
+      }
+    },
+    "name": "Carnal Catastrophe",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "carnal-thug": {
+    "id": "carnal-thug",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Carnal Thug"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Carnal%20Thug.jpg.jpeg"
+      }
+    },
+    "name": "Carnal Thug",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "castalia-sinister-mistress": {
+    "id": "castalia-sinister-mistress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Castalia Sinister Mistress"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Castalia%20Sinister%20Mistress.jpg.jpeg"
+      }
+    },
+    "name": "Castalia Sinister Mistress",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "chained-demon": {
+    "id": "chained-demon",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Chained Demon"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Chained%20Demon.jpg.jpeg"
+      }
+    },
+    "name": "Chained Demon",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "charming-incubus": {
+    "id": "charming-incubus",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Charming Incubus"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Charming%20Incubus.jpg.jpeg"
+      }
+    },
+    "name": "Charming Incubus",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "classroom-hazing": {
+    "id": "classroom-hazing",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Classroom Hazing"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Classroom%20Hazing.jpg.jpeg"
+      }
+    },
+    "name": "Classroom Hazing",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "cock-shock": {
+    "id": "cock-shock",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cock Shock"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Cock%20Shock.jpg.jpeg"
+      }
+    },
+    "name": "Cock Shock",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "combative-orgy": {
+    "id": "combative-orgy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Combative Orgy"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Combative%20Orgy.jpg.jpeg"
+      }
+    },
+    "name": "Combative Orgy",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "conjure-tentacles": {
+    "id": "conjure-tentacles",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Conjure Tentacles"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Conjure%20Tentacles.jpg.jpeg"
+      }
+    },
+    "name": "Conjure Tentacles",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "corporal-punishment": {
+    "id": "corporal-punishment",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Corporal Punishment"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Corporal%20Punishment.jpg.jpeg"
+      }
+    },
+    "name": "Corporal Punishment",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "damien-vasir": {
+    "id": "damien-vasir",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Damien Vasir"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Damien%20Vasir.jpg.jpeg"
+      }
+    },
+    "name": "Damien Vasir",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "damsel-seeking-distress": {
+    "id": "damsel-seeking-distress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Damsel Seeking Distress"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Damsel%20Seeking%20Distress.jpg.jpeg"
+      }
+    },
+    "name": "Damsel Seeking Distress",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "decadent-alumni": {
+    "id": "decadent-alumni",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Decadent Alumni"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Decadent%20Alumni.jpg.jpeg"
+      }
+    },
+    "name": "Decadent Alumni",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "demon-abduction": {
+    "id": "demon-abduction",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Demon Abduction"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Demon%20Abduction.jpg.jpeg"
+      }
+    },
+    "name": "Demon Abduction",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "demon-of-desire": {
+    "id": "demon-of-desire",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Demon of Desire"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Demon%20of%20Desire.jpg.jpeg"
+      }
+    },
+    "name": "Demon of Desire",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "demonic-bargain": {
+    "id": "demonic-bargain",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Demonic Bargain"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Demonic%20Bargain.jpg.jpeg"
+      }
+    },
+    "name": "Demonic Bargain",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "devoted-maid": {
+    "id": "devoted-maid",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Devoted Maid"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Devoted%20Maid.jpg.jpeg"
+      }
+    },
+    "name": "Devoted Maid",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "divine-visitation": {
+    "id": "divine-visitation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Divine Visitation"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Divine%20Visitation.jpg.jpeg"
+      }
+    },
+    "name": "Divine Visitation",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "draining-horror": {
+    "id": "draining-horror",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Draining Horror"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Draining%20Horror.jpg.jpeg"
+      }
+    },
+    "name": "Draining Horror",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "druid-of-old-lore": {
+    "id": "druid-of-old-lore",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Druid of Old Lore"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Druid%20of%20Old%20Lore.jpg.jpeg"
+      }
+    },
+    "name": "Druid of Old Lore",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "dryad-breeding-grounds": {
+    "id": "dryad-breeding-grounds",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dryad Breeding Grounds"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Dryad%20Breeding%20Grounds.jpg.jpeg"
+      }
+    },
+    "name": "Dryad Breeding Grounds",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "dryad-sex-party": {
+    "id": "dryad-sex-party",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dryad Sex Party"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Dryad%20Sex%20Party.jpg.jpeg"
+      }
+    },
+    "name": "Dryad Sex Party",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "eager-cadet": {
+    "id": "eager-cadet",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Eager Cadet"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Eager%20Cadet.jpg.jpeg"
+      }
+    },
+    "name": "Eager Cadet",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "eager-goblin": {
+    "id": "eager-goblin",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Eager Goblin"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Eager%20Goblin.jpg.jpeg"
+      }
+    },
+    "name": "Eager Goblin",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "eiska-the-pretender": {
+    "id": "eiska-the-pretender",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Eiska the Pretender"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Eiska%20the%20Pretender.jpg.jpeg"
+      }
+    },
+    "name": "Eiska the Pretender",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "eiskas-betrayal": {
+    "id": "eiskas-betrayal",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Eiskas Betrayal"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Eiskas%20Betrayal.jpg.jpeg"
+      }
+    },
+    "name": "Eiskas Betrayal",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "elven-myconist": {
+    "id": "elven-myconist",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Elven Myconist"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Elven%20Myconist.jpg.jpeg"
+      }
+    },
+    "name": "Elven Myconist",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "endless-evening": {
+    "id": "endless-evening",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Endless Evening"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Endless%20Evening.jpg.jpeg"
+      }
+    },
+    "name": "Endless Evening",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "enhanced-sensations": {
+    "id": "enhanced-sensations",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Enhanced Sensations"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Enhanced%20Sensations.jpg.jpeg"
+      }
+    },
+    "name": "Enhanced Sensations",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "enter-the-festival": {
+    "id": "enter-the-festival",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Enter the Festival"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Enter%20the%20Festival.jpg.jpeg"
+      }
+    },
+    "name": "Enter the Festival",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "enthusiastic-consent": {
+    "id": "enthusiastic-consent",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Enthusiastic Consent"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Enthusiastic%20Consent.jpg.jpeg"
+      }
+    },
+    "name": "Enthusiastic Consent",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "entrancing-slime": {
+    "id": "entrancing-slime",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Entrancing Slime"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Entrancing%20Slime.jpg.jpeg"
+      }
+    },
+    "name": "Entrancing Slime",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "erotic-guidebook": {
+    "id": "erotic-guidebook",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Erotic Guidebook"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Erotic%20Guidebook.jpg.jpeg"
+      }
+    },
+    "name": "Erotic Guidebook",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "erotic-researcher": {
+    "id": "erotic-researcher",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Erotic Researcher"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Erotic%20Researcher.jpg.jpeg"
+      }
+    },
+    "name": "Erotic Researcher",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "esoteric-druid": {
+    "id": "esoteric-druid",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Esoteric Druid"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Esoteric%20Druid.jpg.jpeg"
+      }
+    },
+    "name": "Esoteric Druid",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "evin-spirit-of-fun": {
+    "id": "evin-spirit-of-fun",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Evin Spirit of Fun"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Evin%20Spirit%20of%20Fun.jpg.jpeg"
+      }
+    },
+    "name": "Evin Spirit of Fun",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "experienced-soldier": {
+    "id": "experienced-soldier",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Experienced Soldier"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Experienced%20Soldier.jpg.jpeg"
+      }
+    },
+    "name": "Experienced Soldier",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "experimental-sybian": {
+    "id": "experimental-sybian",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Experimental Sybian"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Experimental%20Sybian.jpg.jpeg"
+      }
+    },
+    "name": "Experimental Sybian",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "experimenting-academic": {
+    "id": "experimenting-academic",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Experimenting Academic"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Experimenting%20Academic.jpg.jpeg"
+      }
+    },
+    "name": "Experimenting Academic",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "exposed-huntress": {
+    "id": "exposed-huntress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Exposed Huntress"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Exposed%20Huntress.jpg.jpeg"
+      }
+    },
+    "name": "Exposed Huntress",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fastia-who-watches": {
+    "id": "fastia-who-watches",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fastia Who Watches"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Fastia%20Who%20Watches.jpg.jpeg"
+      }
+    },
+    "name": "Fastia Who Watches",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fertile-display": {
+    "id": "fertile-display",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fertile Display"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Fertile%20Display.jpg.jpeg"
+      }
+    },
+    "name": "Fertile Display",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fertile-dryad": {
+    "id": "fertile-dryad",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fertile Dryad"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Fertile%20Dryad.jpg.jpeg"
+      }
+    },
+    "name": "Fertile Dryad",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fertility-celebration": {
+    "id": "fertility-celebration",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fertility Celebration"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Fertility%20Celebration.jpg.jpeg"
+      }
+    },
+    "name": "Fertility Celebration",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fey-companion": {
+    "id": "fey-companion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fey Companion"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Fey%20Companion.jpg.jpeg"
+      }
+    },
+    "name": "Fey Companion",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fiera-army-matchmaker": {
+    "id": "fiera-army-matchmaker",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fiera Army Matchmaker"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Fiera%20Army%20Matchmaker.jpg.jpeg"
+      }
+    },
+    "name": "Fiera Army Matchmaker",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "final-climax": {
+    "id": "final-climax",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Final Climax"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Final%20Climax.jpg.jpeg"
+      }
+    },
+    "name": "Final Climax",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "first-time-pervert": {
+    "id": "first-time-pervert",
+    "face": {
+      "front": {
+        "name": {
+          "name": "First-Time Pervert"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/First-Time%20Pervert.jpg.jpeg"
+      }
+    },
+    "name": "First-Time Pervert",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "forbidden-library": {
+    "id": "forbidden-library",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Forbidden Library"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Forbidden%20Library.jpg.jpeg"
+      }
+    },
+    "name": "Forbidden Library",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "foreplay": {
+    "id": "foreplay",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Foreplay"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Foreplay.jpg.jpeg"
+      }
+    },
+    "name": "Foreplay",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "forest": {
+    "id": "forest",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Forest"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Forest.jpg.jpeg"
+      }
+    },
+    "name": "Forest",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fresh-faced-goblin": {
+    "id": "fresh-faced-goblin",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fresh-faced Goblin"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Fresh-faced%20Goblin.jpg.jpeg"
+      }
+    },
+    "name": "Fresh-faced Goblin",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fucked-to-exhaustion": {
+    "id": "fucked-to-exhaustion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fucked to Exhaustion"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Fucked%20to%20Exhaustion.jpg.jpeg"
+      }
+    },
+    "name": "Fucked to Exhaustion",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fully-exposed": {
+    "id": "fully-exposed",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fully Exposed"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Fully%20Exposed.jpg.jpeg"
+      }
+    },
+    "name": "Fully Exposed",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "gather-ingredients": {
+    "id": "gather-ingredients",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gather Ingredients"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Gather%20Ingredients.jpg.jpeg"
+      }
+    },
+    "name": "Gather Ingredients",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-breeder": {
+    "id": "goblin-breeder",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Breeder"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Breeder.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Breeder",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-companion": {
+    "id": "goblin-companion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Companion"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Companion.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Companion",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-decoy": {
+    "id": "goblin-decoy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Decoy"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Decoy.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Decoy",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-elders": {
+    "id": "goblin-elders",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Elders"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Elders.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Elders",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-gang": {
+    "id": "goblin-gang",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Gang"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Gang.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Gang",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-gangbang": {
+    "id": "goblin-gangbang",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Gangbang"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Gangbang.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Gangbang",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-greeting": {
+    "id": "goblin-greeting",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Greeting"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Greeting.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Greeting",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-harem": {
+    "id": "goblin-harem",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Harem"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Harem.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Harem",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-jackhammer": {
+    "id": "goblin-jackhammer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Jackhammer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Jackhammer.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Jackhammer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-mating-festival": {
+    "id": "goblin-mating-festival",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Mating Festival"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Mating%20Festival.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Mating Festival",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-mentor": {
+    "id": "goblin-mentor",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Mentor"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Mentor.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Mentor",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-ravager": {
+    "id": "goblin-ravager",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Ravager"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Ravager.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Ravager",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-streetwalker": {
+    "id": "goblin-streetwalker",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Streetwalker"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Streetwalker.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Streetwalker",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-terrirory": {
+    "id": "goblin-terrirory",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Terrirory"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Terrirory.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Terrirory",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "goblin-whorehouse": {
+    "id": "goblin-whorehouse",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goblin Whorehouse"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Goblin%20Whorehouse.jpg.jpeg"
+      }
+    },
+    "name": "Goblin Whorehouse",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "grand-general-maliel": {
+    "id": "grand-general-maliel",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Grand General Maliel"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Grand%20General%20Maliel.jpg.jpeg"
+      }
+    },
+    "name": "Grand General Maliel",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "grasping-vines": {
+    "id": "grasping-vines",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Grasping Vines"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Grasping%20Vines.jpg.jpeg"
+      }
+    },
+    "name": "Grasping Vines",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "greedy-princess": {
+    "id": "greedy-princess",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Greedy Princess"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Greedy%20Princess.jpg.jpeg"
+      }
+    },
+    "name": "Greedy Princess",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "grovetender-goblin": {
+    "id": "grovetender-goblin",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Grovetender Goblin"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Grovetender%20Goblin.jpg.jpeg"
+      }
+    },
+    "name": "Grovetender Goblin",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "hard-spanking": {
+    "id": "hard-spanking",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hard Spanking"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Hard%20Spanking.jpg.jpeg"
+      }
+    },
+    "name": "Hard Spanking",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "harmonic-simulacrum": {
+    "id": "harmonic-simulacrum",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Harmonic Simulacrum"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Harmonic%20Simulacrum.jpg.jpeg"
+      }
+    },
+    "name": "Harmonic Simulacrum",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "healing-pleasure": {
+    "id": "healing-pleasure",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Healing Pleasure"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Healing%20Pleasure.jpg.jpeg"
+      }
+    },
+    "name": "Healing Pleasure",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "hidden-onlooker": {
+    "id": "hidden-onlooker",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hidden Onlooker"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Hidden%20Onlooker.jpg.jpeg"
+      }
+    },
+    "name": "Hidden Onlooker",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "hybrid-grovemother": {
+    "id": "hybrid-grovemother",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hybrid Grovemother"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Hybrid%20Grovemother.jpg.jpeg"
+      }
+    },
+    "name": "Hybrid Grovemother",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "illusion-major": {
+    "id": "illusion-major",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Illusion Major"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Illusion%20Major.jpg.jpeg"
+      }
+    },
+    "name": "Illusion Major",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "indulgent-bandit": {
+    "id": "indulgent-bandit",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Indulgent Bandit"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Indulgent%20Bandit.jpg.jpeg"
+      }
+    },
+    "name": "Indulgent Bandit",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "indulgent-knight": {
+    "id": "indulgent-knight",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Indulgent Knight"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Indulgent%20Knight.jpg.jpeg"
+      }
+    },
+    "name": "Indulgent Knight",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "infernal-duo": {
+    "id": "infernal-duo",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Infernal Duo"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Infernal%20Duo.jpg.jpeg"
+      }
+    },
+    "name": "Infernal Duo",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "inspire": {
+    "id": "inspire",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Inspire"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Inspire.jpg.jpeg"
+      }
+    },
+    "name": "Inspire",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "inspiring-druid": {
+    "id": "inspiring-druid",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Inspiring Druid"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Inspiring%20Druid.jpg.jpeg"
+      }
+    },
+    "name": "Inspiring Druid",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "inviting-uniform": {
+    "id": "inviting-uniform",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Inviting Uniform"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Inviting%20Uniform.jpg.jpeg"
+      }
+    },
+    "name": "Inviting Uniform",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "island": {
+    "id": "island",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Island"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Island.jpg.jpeg"
+      }
+    },
+    "name": "Island",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "jevax-novice-watchman": {
+    "id": "jevax-novice-watchman",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Jevax Novice Watchman"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Jevax%20Novice%20Watchman.jpg.jpeg"
+      }
+    },
+    "name": "Jevax Novice Watchman",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "jevaxs-meeting": {
+    "id": "jevaxs-meeting",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Jevaxs Meeting"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Jevaxs%20Meeting.jpg.jpeg"
+      }
+    },
+    "name": "Jevaxs Meeting",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "jun-tireless-breeder": {
+    "id": "jun-tireless-breeder",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Jun Tireless Breeder"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Jun%20Tireless%20Breeder.jpg.jpeg"
+      }
+    },
+    "name": "Jun Tireless Breeder",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "just-a-peek": {
+    "id": "just-a-peek",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Just a Peek"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Just%20a%20Peek.jpg.jpeg"
+      }
+    },
+    "name": "Just a Peek",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "kysa-tamed-monster": {
+    "id": "kysa-tamed-monster",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kysa Tamed Monster"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Kysa%20Tamed%20Monster.jpg.jpeg"
+      }
+    },
+    "name": "Kysa Tamed Monster",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lamia-occultist": {
+    "id": "lamia-occultist",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lamia Occultist"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lamia%20Occultist.jpg.jpeg"
+      }
+    },
+    "name": "Lamia Occultist",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "leave-breathless": {
+    "id": "leave-breathless",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Leave Breathless"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Leave%20Breathless.jpg.jpeg"
+      }
+    },
+    "name": "Leave Breathless",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lecherous-officer": {
+    "id": "lecherous-officer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lecherous Officer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lecherous%20Officer.jpg.jpeg"
+      }
+    },
+    "name": "Lecherous Officer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lectured-student": {
+    "id": "lectured-student",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lectured Student"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lectured%20Student.jpg.jpeg"
+      }
+    },
+    "name": "Lectured Student",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lia-spirit-of-passion": {
+    "id": "lia-spirit-of-passion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lia Spirit of Passion"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lia%20Spirit%20of%20Passion.jpg.jpeg"
+      }
+    },
+    "name": "Lia Spirit of Passion",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "linesse-mistress-of-chastity": {
+    "id": "linesse-mistress-of-chastity",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Linesse Mistress of Chastity"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Linesse%20Mistress%20of%20Chastity.jpg.jpeg"
+      }
+    },
+    "name": "Linesse Mistress of Chastity",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lonely-selkie": {
+    "id": "lonely-selkie",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lonely Selkie"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lonely%20Selkie.jpg.jpeg"
+      }
+    },
+    "name": "Lonely Selkie",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lovers-embrace": {
+    "id": "lovers-embrace",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lovers Embrace"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lovers%20Embrace.jpg.jpeg"
+      }
+    },
+    "name": "Lovers Embrace",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lumia-spirit-of-coyishness": {
+    "id": "lumia-spirit-of-coyishness",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lumia spirit of Coyishness"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lumia%20spirit%20of%20Coyishness.jpg.jpeg"
+      }
+    },
+    "name": "Lumia spirit of Coyishness",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lustful-warrior": {
+    "id": "lustful-warrior",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lustful Warrior"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Lustful%20Warrior.jpg.jpeg"
+      }
+    },
+    "name": "Lustful Warrior",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "maia-gentle-patrician": {
+    "id": "maia-gentle-patrician",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Maia Gentle Patrician"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Maia%20Gentle%20Patrician.jpg.jpeg"
+      }
+    },
+    "name": "Maia Gentle Patrician",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "make-presentable": {
+    "id": "make-presentable",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Make Presentable"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Make%20Presentable.jpg.jpeg"
+      }
+    },
+    "name": "Make Presentable",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "mana-enhancer": {
+    "id": "mana-enhancer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mana Enhancer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Mana%20Enhancer.jpg.jpeg"
+      }
+    },
+    "name": "Mana Enhancer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "martial-climax": {
+    "id": "martial-climax",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Martial Climax"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Martial%20Climax.jpg.jpeg"
+      }
+    },
+    "name": "Martial Climax",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "mass-striptease": {
+    "id": "mass-striptease",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mass Striptease"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Mass%20Striptease.jpg.jpeg"
+      }
+    },
+    "name": "Mass Striptease",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "massive-assets": {
+    "id": "massive-assets",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Massive Assets"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Massive%20Assets.jpg.jpeg"
+      }
+    },
+    "name": "Massive Assets",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "masterful-fellatrix": {
+    "id": "masterful-fellatrix",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Masterful Fellatrix"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Masterful%20Fellatrix.jpg.jpeg"
+      }
+    },
+    "name": "Masterful Fellatrix",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "midnight-ravager": {
+    "id": "midnight-ravager",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Midnight Ravager"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Midnight%20Ravager.jpg.jpeg"
+      }
+    },
+    "name": "Midnight Ravager",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "midterm-exam": {
+    "id": "midterm-exam",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Midterm Exam"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Midterm%20Exam.jpg.jpeg"
+      }
+    },
+    "name": "Midterm Exam",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "milk-dry": {
+    "id": "milk-dry",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Milk Dry"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Milk%20Dry.jpg.jpeg"
+      }
+    },
+    "name": "Milk Dry",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "mistress-of-multitasking": {
+    "id": "mistress-of-multitasking",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mistress of Multitasking"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Mistress%20of%20Multitasking.jpg.jpeg"
+      }
+    },
+    "name": "Mistress of Multitasking",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "moment-of-passion": {
+    "id": "moment-of-passion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Moment of Passion"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Moment%20of%20Passion.jpg.jpeg"
+      }
+    },
+    "name": "Moment of Passion",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "mountain": {
+    "id": "mountain",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mountain"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Mountain.jpg.jpeg"
+      }
+    },
+    "name": "Mountain",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "myconid-companion": {
+    "id": "myconid-companion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Myconid Companion"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Myconid%20Companion.jpg.jpeg"
+      }
+    },
+    "name": "Myconid Companion",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "mystical-maiden": {
+    "id": "mystical-maiden",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mystical Maiden"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Mystical%20Maiden.jpg.jpeg"
+      }
+    },
+    "name": "Mystical Maiden",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "naughty-trickster": {
+    "id": "naughty-trickster",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Naughty Trickster"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Naughty%20Trickster.jpg.jpeg"
+      }
+    },
+    "name": "Naughty Trickster",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "nighttime-tryst": {
+    "id": "nighttime-tryst",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nighttime Tryst"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Nighttime%20Tryst.jpg.jpeg"
+      }
+    },
+    "name": "Nighttime Tryst",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "not-going-anywhere": {
+    "id": "not-going-anywhere",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Not Going Anywhere"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Not%20Going%20Anywhere.jpg.jpeg"
+      }
+    },
+    "name": "Not Going Anywhere",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "novice-role-player": {
+    "id": "novice-role-player",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Novice Role player"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Novice%20Role%20player.jpg.jpeg"
+      }
+    },
+    "name": "Novice Role player",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "object-of-worship": {
+    "id": "object-of-worship",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Object of Worship"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Object%20of%20Worship.jpg.jpeg"
+      }
+    },
+    "name": "Object of Worship",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "occult-orgy": {
+    "id": "occult-orgy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Occult Orgy"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Occult%20Orgy.jpg.jpeg"
+      }
+    },
+    "name": "Occult Orgy",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ogres-toy": {
+    "id": "ogres-toy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ogres Toy"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Ogres%20Toy.jpg.jpeg"
+      }
+    },
+    "name": "Ogres Toy",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ominous-tentacles": {
+    "id": "ominous-tentacles",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ominous Tentacles"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Ominous%20Tentacles.jpg.jpeg"
+      }
+    },
+    "name": "Ominous Tentacles",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "orc-welcoming-comittee": {
+    "id": "orc-welcoming-comittee",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Orc Welcoming Comittee"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Orc%20Welcoming%20Comittee.jpg.jpeg"
+      }
+    },
+    "name": "Orc Welcoming Comittee",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "orgasmic-bolt": {
+    "id": "orgasmic-bolt",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Orgasmic Bolt"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Orgasmic%20Bolt.jpg.jpeg"
+      }
+    },
+    "name": "Orgasmic Bolt",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ornate-toy": {
+    "id": "ornate-toy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ornate Toy"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Ornate%20Toy.jpg.jpeg"
+      }
+    },
+    "name": "Ornate Toy",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "passionate-cadet": {
+    "id": "passionate-cadet",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Passionate Cadet"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Passionate%20Cadet.jpg.jpeg"
+      }
+    },
+    "name": "Passionate Cadet",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "passionate-display": {
+    "id": "passionate-display",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Passionate Display"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Passionate%20Display.jpg.jpeg"
+      }
+    },
+    "name": "Passionate Display",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "passionate-kiss": {
+    "id": "passionate-kiss",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Passionate Kiss"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Passionate%20Kiss.jpg.jpeg"
+      }
+    },
+    "name": "Passionate Kiss",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "passionate-persuasion": {
+    "id": "passionate-persuasion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Passionate Persuasion"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Passionate%20Persuasion.jpg.jpeg"
+      }
+    },
+    "name": "Passionate Persuasion",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "passionate-recruits": {
+    "id": "passionate-recruits",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Passionate Recruits"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Passionate%20Recruits.jpg.jpeg"
+      }
+    },
+    "name": "Passionate Recruits",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "penultimate-pleasure": {
+    "id": "penultimate-pleasure",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Penultimate Pleasure"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Penultimate%20Pleasure.jpg.jpeg"
+      }
+    },
+    "name": "Penultimate Pleasure",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "persuasive-nobleman": {
+    "id": "persuasive-nobleman",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Persuasive Nobleman"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Persuasive%20Nobleman.jpg.jpeg"
+      }
+    },
+    "name": "Persuasive Nobleman",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "pheremonal-dryad": {
+    "id": "pheremonal-dryad",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pheremonal Dryad"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Pheremonal%20Dryad.jpg.jpeg"
+      }
+    },
+    "name": "Pheremonal Dryad",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "plains": {
+    "id": "plains",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Plains"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Plains.jpg.jpeg"
+      }
+    },
+    "name": "Plains",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "plant-fetishist": {
+    "id": "plant-fetishist",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Plant Fetishist"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Plant%20Fetishist.jpg.jpeg"
+      }
+    },
+    "name": "Plant Fetishist",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "pleasing-parson": {
+    "id": "pleasing-parson",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pleasing Parson"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Pleasing%20Parson.jpg.jpeg"
+      }
+    },
+    "name": "Pleasing Parson",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "pocket-pixie": {
+    "id": "pocket-pixie",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pocket Pixie"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Pocket%20Pixie.jpg.jpeg"
+      }
+    },
+    "name": "Pocket Pixie",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "popular-plaything": {
+    "id": "popular-plaything",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Popular Plaything"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Popular%20Plaything.jpg.jpeg"
+      }
+    },
+    "name": "Popular Plaything",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "popular-recruit": {
+    "id": "popular-recruit",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Popular Recruit"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Popular%20Recruit.jpg.jpeg"
+      }
+    },
+    "name": "Popular Recruit",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "power-fantasy": {
+    "id": "power-fantasy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Power Fantasy"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Power%20Fantasy.jpg.jpeg"
+      }
+    },
+    "name": "Power Fantasy",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "private-study-session": {
+    "id": "private-study-session",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Private Study Session"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Private%20Study%20Session.jpg.jpeg"
+      }
+    },
+    "name": "Private Study Session",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "profound-climax": {
+    "id": "profound-climax",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Profound Climax"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Profound%20Climax.jpg.jpeg"
+      }
+    },
+    "name": "Profound Climax",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "promiscuous-partygoer": {
+    "id": "promiscuous-partygoer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Promiscuous Partygoer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Promiscuous%20Partygoer.jpg.jpeg"
+      }
+    },
+    "name": "Promiscuous Partygoer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "quick-flash": {
+    "id": "quick-flash",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Quick Flash"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Quick%20Flash.jpg.jpeg"
+      }
+    },
+    "name": "Quick Flash",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "quick-technique": {
+    "id": "quick-technique",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Quick Technique"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Quick%20Technique.jpg.jpeg"
+      }
+    },
+    "name": "Quick Technique",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "recruitment-office": {
+    "id": "recruitment-office",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Recruitment Office"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Recruitment%20Office.jpg.jpeg"
+      }
+    },
+    "name": "Recruitment Office",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "relentless-climax": {
+    "id": "relentless-climax",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Relentless Climax"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Relentless%20Climax.jpg.jpeg"
+      }
+    },
+    "name": "Relentless Climax",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "resting-officer": {
+    "id": "resting-officer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Resting Officer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Resting%20Officer.jpg.jpeg"
+      }
+    },
+    "name": "Resting Officer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "return-to-bed": {
+    "id": "return-to-bed",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Return to Bed"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Return%20to%20Bed.jpg.jpeg"
+      }
+    },
+    "name": "Return to Bed",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "reusable-toy": {
+    "id": "reusable-toy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Reusable Toy"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Reusable%20Toy.jpg.jpeg"
+      }
+    },
+    "name": "Reusable Toy",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ride": {
+    "id": "ride",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ride"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Ride.jpg.jpeg"
+      }
+    },
+    "name": "Ride",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "rivaling-queen": {
+    "id": "rivaling-queen",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rivaling Queen"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Rivaling%20Queen.jpg.jpeg"
+      }
+    },
+    "name": "Rivaling Queen",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "rope-session": {
+    "id": "rope-session",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rope Session"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Rope%20Session.jpg.jpeg"
+      }
+    },
+    "name": "Rope Session",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "salacious-bodyguard": {
+    "id": "salacious-bodyguard",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Salacious Bodyguard"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Salacious%20Bodyguard.jpg.jpeg"
+      }
+    },
+    "name": "Salacious Bodyguard",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "salacious-grovetender": {
+    "id": "salacious-grovetender",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Salacious Grovetender"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Salacious%20Grovetender.jpg.jpeg"
+      }
+    },
+    "name": "Salacious Grovetender",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "salacious-seniors": {
+    "id": "salacious-seniors",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Salacious Seniors"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Salacious%20Seniors.jpg.jpeg"
+      }
+    },
+    "name": "Salacious Seniors",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "secluded-senior": {
+    "id": "secluded-senior",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secluded Senior"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Secluded%20Senior.jpg.jpeg"
+      }
+    },
+    "name": "Secluded Senior",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "second-round": {
+    "id": "second-round",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Second Round"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Second%20Round.jpg.jpeg"
+      }
+    },
+    "name": "Second Round",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "secret-mistress": {
+    "id": "secret-mistress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secret Mistress"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Secret%20Mistress.jpg.jpeg"
+      }
+    },
+    "name": "Secret Mistress",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "secrets-uncovered": {
+    "id": "secrets-uncovered",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secrets Uncovered"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Secrets%20Uncovered.jpg.jpeg"
+      }
+    },
+    "name": "Secrets Uncovered",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "secure-power": {
+    "id": "secure-power",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secure Power"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Secure%20Power.jpg.jpeg"
+      }
+    },
+    "name": "Secure Power",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "seduce-the-strong": {
+    "id": "seduce-the-strong",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Seduce the Strong"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Seduce%20the%20Strong.jpg.jpeg"
+      }
+    },
+    "name": "Seduce the Strong",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "seductive-dryad": {
+    "id": "seductive-dryad",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Seductive Dryad"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Seductive%20Dryad.jpg.jpeg"
+      }
+    },
+    "name": "Seductive Dryad",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "selene-underhanded-student": {
+    "id": "selene-underhanded-student",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Selene Underhanded Student"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Selene%20Underhanded%20Student.jpg.jpeg"
+      }
+    },
+    "name": "Selene Underhanded Student",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "selfish-lover": {
+    "id": "selfish-lover",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Selfish Lover"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Selfish%20Lover.jpg.jpeg"
+      }
+    },
+    "name": "Selfish Lover",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "selvia-intruder": {
+    "id": "selvia-intruder",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Selvia Intruder"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Selvia%20Intruder.jpg.jpeg"
+      }
+    },
+    "name": "Selvia Intruder",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "selvia-professor": {
+    "id": "selvia-professor",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Selvia Professor"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Selvia%20Professor.jpg.jpeg"
+      }
+    },
+    "name": "Selvia Professor",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "selvia-ritualist": {
+    "id": "selvia-ritualist",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Selvia Ritualist"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Selvia%20Ritualist.jpg.jpeg"
+      }
+    },
+    "name": "Selvia Ritualist",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "selvia-scourge": {
+    "id": "selvia-scourge",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Selvia Scourge"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Selvia%20Scourge.jpg.jpeg"
+      }
+    },
+    "name": "Selvia Scourge",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "selvian-electromancer": {
+    "id": "selvian-electromancer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Selvian Electromancer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Selvian%20Electromancer.jpg.jpeg"
+      }
+    },
+    "name": "Selvian Electromancer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "selvian-mistress": {
+    "id": "selvian-mistress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Selvian Mistress"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Selvian%20Mistress.jpg.jpeg"
+      }
+    },
+    "name": "Selvian Mistress",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sensation-multiplier": {
+    "id": "sensation-multiplier",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sensation Multiplier"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Sensation%20Multiplier.jpg.jpeg"
+      }
+    },
+    "name": "Sensation Multiplier",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sensual-restoration": {
+    "id": "sensual-restoration",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sensual Restoration"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Sensual%20Restoration.jpg.jpeg"
+      }
+    },
+    "name": "Sensual Restoration",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sergent-valdrin": {
+    "id": "sergent-valdrin",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sergent Valdrin"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Sergent%20Valdrin.jpg.jpeg"
+      }
+    },
+    "name": "Sergent Valdrin",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sex-break": {
+    "id": "sex-break",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sex Break"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Sex%20Break.jpg.jpeg"
+      }
+    },
+    "name": "Sex Break",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sexual-frustration": {
+    "id": "sexual-frustration",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sexual Frustration"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Sexual%20Frustration.jpg.jpeg"
+      }
+    },
+    "name": "Sexual Frustration",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sneaking-suspicion": {
+    "id": "sneaking-suspicion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sneaking Suspicion"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Sneaking%20Suspicion.jpg.jpeg"
+      }
+    },
+    "name": "Sneaking Suspicion",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "spitroasted-captain": {
+    "id": "spitroasted-captain",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spitroasted Captain"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Spitroasted%20Captain.jpg.jpeg"
+      }
+    },
+    "name": "Spitroasted Captain",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "spotlight-stealer": {
+    "id": "spotlight-stealer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spotlight Stealer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Spotlight%20Stealer.jpg.jpeg"
+      }
+    },
+    "name": "Spotlight Stealer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sprout-tender": {
+    "id": "sprout-tender",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sprout Tender"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Sprout%20Tender.jpg.jpeg"
+      }
+    },
+    "name": "Sprout Tender",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "stifling-dominatrix": {
+    "id": "stifling-dominatrix",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stifling Dominatrix"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Stifling%20Dominatrix.jpg.jpeg"
+      }
+    },
+    "name": "Stifling Dominatrix",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "strapped-to-a-chair": {
+    "id": "strapped-to-a-chair",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Strapped to a Chair"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Strapped%20to%20a%20Chair.jpg.jpeg"
+      }
+    },
+    "name": "Strapped to a Chair",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "strict-climax": {
+    "id": "strict-climax",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Strict Climax"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Strict%20Climax.jpg.jpeg"
+      }
+    },
+    "name": "Strict Climax",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "strip-rank": {
+    "id": "strip-rank",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Strip Rank"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Strip%20Rank.jpg.jpeg"
+      }
+    },
+    "name": "Strip Rank",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sudden-yearning": {
+    "id": "sudden-yearning",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sudden Yearning"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Sudden%20Yearning.jpg.jpeg"
+      }
+    },
+    "name": "Sudden Yearning",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "swamp": {
+    "id": "swamp",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Swamp"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Swamp.jpg.jpeg"
+      }
+    },
+    "name": "Swamp",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "teachers-pet": {
+    "id": "teachers-pet",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Teachers Pet"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Teachers%20Pet.jpg.jpeg"
+      }
+    },
+    "name": "Teachers Pet",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "tempt-with-pleasure": {
+    "id": "tempt-with-pleasure",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tempt With Pleasure"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Tempt%20With%20Pleasure.jpg.jpeg"
+      }
+    },
+    "name": "Tempt With Pleasure",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "tempting-lover": {
+    "id": "tempting-lover",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tempting Lover"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Tempting%20Lover.jpg.jpeg"
+      }
+    },
+    "name": "Tempting Lover",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "tender-pounding": {
+    "id": "tender-pounding",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tender Pounding"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Tender%20Pounding.jpg.jpeg"
+      }
+    },
+    "name": "Tender Pounding",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "tentacle-abberation": {
+    "id": "tentacle-abberation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tentacle Abberation"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Tentacle%20Abberation.jpg.jpeg"
+      }
+    },
+    "name": "Tentacle Abberation",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "tentacle-sprout": {
+    "id": "tentacle-sprout",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tentacle Sprout"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Tentacle%20Sprout.jpg.jpeg"
+      }
+    },
+    "name": "Tentacle Sprout",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "the-lady-of-many-names": {
+    "id": "the-lady-of-many-names",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Lady of Many Names"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/The%20Lady%20of%20Many%20Names.jpg.jpeg"
+      }
+    },
+    "name": "The Lady of Many Names",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "tireless-lover": {
+    "id": "tireless-lover",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tireless Lover"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Tireless%20Lover.jpg.jpeg"
+      }
+    },
+    "name": "Tireless Lover",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "training-afterparty": {
+    "id": "training-afterparty",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Training Afterparty"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Training%20Afterparty.jpg.jpeg"
+      }
+    },
+    "name": "Training Afterparty",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "troll-chieftain": {
+    "id": "troll-chieftain",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Troll Chieftain"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Troll%20Chieftain.jpg.jpeg"
+      }
+    },
+    "name": "Troll Chieftain",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "trophy-wall": {
+    "id": "trophy-wall",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Trophy Wall"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Trophy%20Wall.jpg.jpeg"
+      }
+    },
+    "name": "Trophy Wall",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "unbearable-stimulation": {
+    "id": "unbearable-stimulation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unbearable Stimulation"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Unbearable%20Stimulation.jpg.jpeg"
+      }
+    },
+    "name": "Unbearable Stimulation",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "uncontrollable-urges": {
+    "id": "uncontrollable-urges",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Uncontrollable Urges"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Uncontrollable%20Urges.jpg.jpeg"
+      }
+    },
+    "name": "Uncontrollable Urges",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "underhanded-tactics": {
+    "id": "underhanded-tactics",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Underhanded Tactics"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Underhanded%20Tactics.jpg.jpeg"
+      }
+    },
+    "name": "Underhanded Tactics",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "unexpected-return": {
+    "id": "unexpected-return",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unexpected Return"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Unexpected%20Return.jpg.jpeg"
+      }
+    },
+    "name": "Unexpected Return",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "united-soldiers": {
+    "id": "united-soldiers",
+    "face": {
+      "front": {
+        "name": {
+          "name": "United Soldiers"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/United%20Soldiers.jpg.jpeg"
+      }
+    },
+    "name": "United Soldiers",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "unleash-evil": {
+    "id": "unleash-evil",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unleash Evil"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Unleash%20Evil.jpg.jpeg"
+      }
+    },
+    "name": "Unleash Evil",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "unleashed-fertility": {
+    "id": "unleashed-fertility",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unleashed Fertility"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Unleashed%20Fertility.jpg.jpeg"
+      }
+    },
+    "name": "Unleashed Fertility",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "unstable-orgasm": {
+    "id": "unstable-orgasm",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unstable Orgasm"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Unstable%20Orgasm.jpg.jpeg"
+      }
+    },
+    "name": "Unstable Orgasm",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "valorous-knight": {
+    "id": "valorous-knight",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Valorous Knight"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Valorous%20Knight.jpg.jpeg"
+      }
+    },
+    "name": "Valorous Knight",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "vibrating-gauntlets": {
+    "id": "vibrating-gauntlets",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Vibrating Gauntlets"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Vibrating%20Gauntlets.jpg.jpeg"
+      }
+    },
+    "name": "Vibrating Gauntlets",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "warm-welcome": {
+    "id": "warm-welcome",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Warm Welcome"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Warm%20Welcome.jpg.jpeg"
+      }
+    },
+    "name": "Warm Welcome",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "weirding-pyromancer": {
+    "id": "weirding-pyromancer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Weirding Pyromancer"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Weirding%20Pyromancer.jpg.jpeg"
+      }
+    },
+    "name": "Weirding Pyromancer",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "wild-climax": {
+    "id": "wild-climax",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wild Climax"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Wild%20Climax.jpg.jpeg"
+      }
+    },
+    "name": "Wild Climax",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "willing-victim": {
+    "id": "willing-victim",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Willing Victim"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Willing%20Victim.jpg.jpeg"
+      }
+    },
+    "name": "Willing Victim",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "without-a-trace": {
+    "id": "without-a-trace",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Without a Trace"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Without%20a%20Trace.jpg.jpeg"
+      }
+    },
+    "name": "Without a Trace",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "yearning-sophomore": {
+    "id": "yearning-sophomore",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Yearning Sophomore"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Yearning%20Sophomore.jpg.jpeg"
+      }
+    },
+    "name": "Yearning Sophomore",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "zadra-self-made-queen": {
+    "id": "zadra-self-made-queen",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Zadra Self-Made Queen"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Zadra%20Self-Made%20Queen.jpg.jpeg"
+      }
+    },
+    "name": "Zadra Self-Made Queen",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "zadras-audience": {
+    "id": "zadras-audience",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Zadras Audience"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Zadras%20Audience.jpg.jpeg"
+      }
+    },
+    "name": "Zadras Audience",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lost-in-ecstasy": {
+    "id": "lost-in-ecstasy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "lost in Ecstasy"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/lost%20in%20Ecstasy.jpg.jpeg"
+      }
+    },
+    "name": "lost in Ecstasy",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
     "_legal": {
       "EDH": true
     }
