@@ -20,6 +20,35 @@
       "EDH": true
     }
   },
+ "bandi-bedside-gleeful-gagger": {
+    "id": "bandi-bedside-gleeful-gagger",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bandi Bedside, Gleeful Gagger"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 2
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Bandi_Bedside_Gleeful_Gagger.png"
+      }
+    },
+    "name": "Bandi Bedside, Gleeful Gagger",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+      }
+    },
+    "name": "Celebr-8000",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
   "celebr-8000": {
     "id": "celebr-8000",
     "face": {
