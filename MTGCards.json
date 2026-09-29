@@ -335,8 +335,8 @@
       "EDH": true
     }
   },
-  "puff": {
-    "id": "puff",
+  "": {
+    "id": "",
     "face": {
       "front": {
         "name": {
@@ -352,6 +352,7 @@
     "type": "Artifact",
     "colors": "B",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     }
