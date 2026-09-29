@@ -335,7 +335,7 @@
       "EDH": true
     }
   },
-  "": {
+  "puff": {
     "id": "puff",
     "isToken": true,
     "face": {
@@ -8819,7 +8819,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "lust-compensator": {
     "id": "lust-compensator",
@@ -8862,7 +8862,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "goblin": {
     "id": "goblin",
@@ -8884,7 +8884,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "helpful-recruit": {
     "id": "helpful-recruit",
@@ -9053,7 +9053,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "nymph": {
     "id": "nymph",
@@ -9075,7 +9075,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "lorekeepers-assistant": {
     "id": "lorekeepers-assistant",
@@ -9265,7 +9265,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "goblin-courtesan": {
     "id": "goblin-courtesan",
@@ -9308,7 +9308,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "vigilant-captain": {
     "id": "vigilant-captain",
@@ -9351,7 +9351,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "impulsive-buyer": {
     "id": "impulsive-buyer",
@@ -9499,7 +9499,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "copy": {
     "id": "copy",
@@ -9605,7 +9605,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "flustered-druid": {
     "id": "flustered-druid",
@@ -9648,7 +9648,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "satyr-duo-token": {
     "id": "satyr-duo-token",
@@ -9775,7 +9775,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "plant-2": {
     "id": "plant-2",
@@ -9839,7 +9839,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "plant": {
     "id": "plant",
@@ -9861,7 +9861,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "general-byron-showcase": {
     "id": "general-byron-showcase",
@@ -9946,7 +9946,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "highborn-subjugator-showcase": {
     "id": "highborn-subjugator-showcase",
@@ -9989,7 +9989,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "bronte-the-bountiful-showcase": {
     "id": "bronte-the-bountiful-showcase",
@@ -10032,7 +10032,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "desperate-occultist": {
     "id": "desperate-occultist",
@@ -10096,7 +10096,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "selene-heart-of-selvia-showcase": {
     "id": "selene-heart-of-selvia-showcase",
@@ -10286,7 +10286,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "maliel-divine-servant-showcase": {
     "id": "maliel-divine-servant-showcase",
@@ -10644,7 +10644,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "forest-v1": {
     "id": "forest-v1",
@@ -10708,7 +10708,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "brawny-companion": {
     "id": "brawny-companion",
@@ -10793,7 +10793,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "goblin-armorsmith": {
     "id": "goblin-armorsmith",
@@ -11088,7 +11088,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "knight": {
     "id": "knight",
@@ -11110,7 +11110,7 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
+    }
   },
   "concupiscent-whorelock-showcase": {
     "id": "concupiscent-whorelock-showcase",
@@ -16456,7 +16456,7 @@
         },
         "type": "Creature",
         "colors": "B",
-        "cost": 0
+        "cost": 0,
         "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Tentacle.png"
       }
     },
@@ -16478,7 +16478,7 @@
         },
         "type": "Creature",
         "colors": "W",
-        "cost": 0
+        "cost": 0,
         "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Vampire.png"
       }
     },
@@ -16500,7 +16500,7 @@
         },
         "type": "Creature",
         "colors": "W",
-        "cost": 0
+        "cost": 0,
         "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/WoD/Clown%20Robot.png"
       }
     },
