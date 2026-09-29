@@ -336,7 +336,8 @@
     }
   },
   "": {
-    "id": "",
+    "id": "puff",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -352,7 +353,6 @@
     "type": "Artifact",
     "colors": "B",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     }
@@ -8801,6 +8801,7 @@
   },
   "kysa": {
     "id": "kysa",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -8816,7 +8817,6 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -8844,6 +8844,7 @@
   },
   "consort": {
     "id": "consort",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -8859,13 +8860,13 @@
     "type": "Creature",
     "colors": "W",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
   },
   "goblin": {
     "id": "goblin",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -8881,7 +8882,6 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9035,6 +9035,7 @@
   },
   "eldrazi-horror": {
     "id": "eldrazi-horror",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9050,13 +9051,13 @@
     "type": "Creature",
     "colors": "#",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
   },
   "nymph": {
     "id": "nymph",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9072,7 +9073,6 @@
     "type": "Creature",
     "colors": "GU",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9247,6 +9247,7 @@
   },
   "food": {
     "id": "food",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9262,7 +9263,6 @@
     "type": "Artifact",
     "colors": "#",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9290,6 +9290,7 @@
   },
   "eldrazi-tentacle": {
     "id": "eldrazi-tentacle",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9305,7 +9306,6 @@
     "type": "Creature",
     "colors": "#",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9333,6 +9333,7 @@
   },
   "wizard": {
     "id": "wizard",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9348,7 +9349,6 @@
     "type": "Creature",
     "colors": "U",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9481,6 +9481,7 @@
   },
   "spirit": {
     "id": "spirit",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9496,7 +9497,6 @@
     "type": "Creature",
     "colors": "U",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9587,6 +9587,7 @@
   },
   "elf": {
     "id": "elf",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9602,7 +9603,6 @@
     "type": "Creature",
     "colors": "G",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9630,6 +9630,7 @@
   },
   "demon": {
     "id": "demon",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9645,7 +9646,6 @@
     "type": "Creature",
     "colors": "#",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9757,6 +9757,7 @@
   },
   "orc": {
     "id": "orc",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9772,7 +9773,6 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9821,6 +9821,7 @@
   },
   "treasure": {
     "id": "treasure",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9836,13 +9837,13 @@
     "type": "Artifact",
     "colors": "#",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
   },
   "plant": {
     "id": "plant",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9858,11 +9859,9 @@
     "type": "Creature",
     "colors": "G",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true,
   },
   "general-byron-showcase": {
     "id": "general-byron-showcase",
@@ -9929,6 +9928,7 @@
   },
   "elemental": {
     "id": "elemental",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9944,7 +9944,6 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -9972,6 +9971,7 @@
   },
   "shade": {
     "id": "shade",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -9987,7 +9987,6 @@
     "type": "Creature",
     "colors": "B",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -10015,6 +10014,7 @@
   },
   "eldrazi": {
     "id": "eldrazi",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -10030,7 +10030,6 @@
     "type": "Creature",
     "colors": "#",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -10079,6 +10078,7 @@
   },
   "illusion": {
     "id": "illusion",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -10094,7 +10094,6 @@
     "type": "Creature",
     "colors": "U",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -10269,6 +10268,7 @@
   },
   "shalias-blessing": {
     "id": "shalias-blessing",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -10284,7 +10284,6 @@
     "type": "Enchantment",
     "colors": "#",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -10627,6 +10626,7 @@
   },
   "soldier": {
     "id": "soldier",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -10642,7 +10642,6 @@
     "type": "Creature",
     "colors": "W",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -10691,6 +10690,7 @@
   },
   "devil": {
     "id": "devil",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -10706,7 +10706,6 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -10776,6 +10775,7 @@
   },
   "satyr": {
     "id": "satyr",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -10791,7 +10791,6 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -11071,6 +11070,7 @@
   },
   "centaur": {
     "id": "centaur",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -11086,13 +11086,13 @@
     "type": "Creature",
     "colors": "G",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
   },
   "knight": {
     "id": "knight",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -11108,7 +11108,6 @@
     "type": "Creature",
     "colors": "W",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     },
@@ -16449,6 +16448,7 @@
   },
   "tentacle": {
     "id": "tentacle",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -16464,13 +16464,13 @@
     "type": "Creature",
     "colors": "B",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     }
   },
   "vampire": {
     "id": "vampire",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -16486,13 +16486,13 @@
     "type": "Creature",
     "colors": "W",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     }
   },
   "clown-robot": {
     "id": "clown-robot",
+    "isToken": true,
     "face": {
       "front": {
         "name": {
@@ -16508,7 +16508,6 @@
     "type": "Creature",
     "colors": "W",
     "cost": 0,
-    "isToken": true,
     "_legal": {
       "EDH": true
     }
