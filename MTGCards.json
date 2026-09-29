@@ -8816,10 +8816,10 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "lust-compensator": {
     "id": "lust-compensator",
@@ -8859,10 +8859,10 @@
     "type": "Creature",
     "colors": "W",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "goblin": {
     "id": "goblin",
@@ -8881,10 +8881,10 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "helpful-recruit": {
     "id": "helpful-recruit",
@@ -9050,10 +9050,10 @@
     "type": "Creature",
     "colors": "#",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "nymph": {
     "id": "nymph",
@@ -9072,10 +9072,10 @@
     "type": "Creature",
     "colors": "GU",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "lorekeepers-assistant": {
     "id": "lorekeepers-assistant",
@@ -9262,10 +9262,10 @@
     "type": "Artifact",
     "colors": "#",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "goblin-courtesan": {
     "id": "goblin-courtesan",
@@ -9305,10 +9305,10 @@
     "type": "Creature",
     "colors": "#",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "vigilant-captain": {
     "id": "vigilant-captain",
@@ -9348,10 +9348,10 @@
     "type": "Creature",
     "colors": "U",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "impulsive-buyer": {
     "id": "impulsive-buyer",
@@ -9496,10 +9496,10 @@
     "type": "Creature",
     "colors": "U",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "copy": {
     "id": "copy",
@@ -9602,10 +9602,10 @@
     "type": "Creature",
     "colors": "G",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "flustered-druid": {
     "id": "flustered-druid",
@@ -9645,10 +9645,10 @@
     "type": "Creature",
     "colors": "#",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "satyr-duo-token": {
     "id": "satyr-duo-token",
@@ -9772,10 +9772,10 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "plant-2": {
     "id": "plant-2",
@@ -9836,10 +9836,10 @@
     "type": "Artifact",
     "colors": "#",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "plant": {
     "id": "plant",
@@ -9858,10 +9858,11 @@
     "type": "Creature",
     "colors": "G",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
+    "isToken": true,
   },
   "general-byron-showcase": {
     "id": "general-byron-showcase",
@@ -9943,10 +9944,10 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "highborn-subjugator-showcase": {
     "id": "highborn-subjugator-showcase",
@@ -9986,10 +9987,10 @@
     "type": "Creature",
     "colors": "B",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "bronte-the-bountiful-showcase": {
     "id": "bronte-the-bountiful-showcase",
@@ -10029,10 +10030,10 @@
     "type": "Creature",
     "colors": "#",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "desperate-occultist": {
     "id": "desperate-occultist",
@@ -10093,10 +10094,10 @@
     "type": "Creature",
     "colors": "U",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "selene-heart-of-selvia-showcase": {
     "id": "selene-heart-of-selvia-showcase",
@@ -10283,10 +10284,10 @@
     "type": "Enchantment",
     "colors": "#",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "maliel-divine-servant-showcase": {
     "id": "maliel-divine-servant-showcase",
@@ -10641,10 +10642,10 @@
     "type": "Creature",
     "colors": "W",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "forest-v1": {
     "id": "forest-v1",
@@ -10705,10 +10706,10 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "brawny-companion": {
     "id": "brawny-companion",
@@ -10790,10 +10791,10 @@
     "type": "Creature",
     "colors": "R",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "goblin-armorsmith": {
     "id": "goblin-armorsmith",
@@ -11085,10 +11086,10 @@
     "type": "Creature",
     "colors": "G",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "knight": {
     "id": "knight",
@@ -11107,10 +11108,10 @@
     "type": "Creature",
     "colors": "W",
     "cost": 0,
+    "isToken": true,
     "_legal": {
       "EDH": true
     },
-    "isToken": true
   },
   "concupiscent-whorelock-showcase": {
     "id": "concupiscent-whorelock-showcase",
