@@ -18695,6 +18695,26 @@
     "cost": 0,
     "_legal": {
       "EDH": true
+    },
+    "black-lotus": {
+    "id": "black-lotus",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Black Lotus"
+        },
+        "type": "Artifact",
+        "colors": "B",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Black%20Lotus.png"
+      }
+    },
+    "name": "black-lotus",
+    "type": "Artifact",
+    "colors": "B",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
     }
   }
 }
