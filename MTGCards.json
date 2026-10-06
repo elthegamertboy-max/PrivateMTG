@@ -18695,8 +18695,9 @@
     "cost": 0,
     "_legal": {
       "EDH": true
-    },
-    "black-lotus": {
+    }
+  },
+  "black-lotus": {
     "id": "black-lotus",
     "face": {
       "front": {
