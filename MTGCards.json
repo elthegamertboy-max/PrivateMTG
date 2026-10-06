@@ -16511,5 +16511,2190 @@
     "_legal": {
       "EDH": true
     }
+  },
+  "sublime-epiphany": {
+    "id": "sublime-epiphany",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sublime Epiphany"
+        },
+        "type": "Instant",
+        "colors": "U",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Sublime%20Epiphany.png"
+      }
+    },
+    "name": "Sublime Epiphany",
+    "type": "Instant",
+    "colors": "U",
+    "cost": 6,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-conviction": {
+    "id": "talisman-of-conviction",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Conviction"
+        },
+        "type": "Artifact",
+        "colors": "RW",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Conviction.png"
+      }
+    },
+    "name": "Talisman of Conviction",
+    "type": "Artifact",
+    "colors": "RW",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-creativity": {
+    "id": "talisman-of-creativity",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Creativity"
+        },
+        "type": "Artifact",
+        "colors": "UR",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Creativity.png"
+      }
+    },
+    "name": "Talisman of Creativity",
+    "type": "Artifact",
+    "colors": "UR",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-curiosity": {
+    "id": "talisman-of-curiosity",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Curiosity"
+        },
+        "type": "Artifact",
+        "colors": "GU",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Curiosity.png"
+      }
+    },
+    "name": "Talisman of Curiosity",
+    "type": "Artifact",
+    "colors": "GU",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-dominance": {
+    "id": "talisman-of-dominance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Dominance"
+        },
+        "type": "Artifact",
+        "colors": "UB",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Dominance.png"
+      }
+    },
+    "name": "Talisman of Dominance",
+    "type": "Artifact",
+    "colors": "UB",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-heirarchy": {
+    "id": "talisman-of-heirarchy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Heirarchy"
+        },
+        "type": "Artifact",
+        "colors": "WB",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Heirarchy.png"
+      }
+    },
+    "name": "Talisman of Heirarchy",
+    "type": "Artifact",
+    "colors": "WB",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-impulse": {
+    "id": "talisman-of-impulse",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Impulse"
+        },
+        "type": "Artifact",
+        "colors": "RG",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Impulse.png"
+      }
+    },
+    "name": "Talisman of Impulse",
+    "type": "Artifact",
+    "colors": "RG",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-indulgence": {
+    "id": "talisman-of-indulgence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Indulgence"
+        },
+        "type": "Artifact",
+        "colors": "BR",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Indulgence.png"
+      }
+    },
+    "name": "Talisman of Indulgence",
+    "type": "Artifact",
+    "colors": "BR",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-progress": {
+    "id": "talisman-of-progress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Progress"
+        },
+        "type": "Artifact",
+        "colors": "WU",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Progress.png"
+      }
+    },
+    "name": "Talisman of Progress",
+    "type": "Artifact",
+    "colors": "WU",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-resilience": {
+    "id": "talisman-of-resilience",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Resilience"
+        },
+        "type": "Artifact",
+        "colors": "BG",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Resilience.png"
+      }
+    },
+    "name": "Talisman of Resilience",
+    "type": "Artifact",
+    "colors": "BG",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "talisman-of-unity": {
+    "id": "talisman-of-unity",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Talisman of Unity"
+        },
+        "type": "Artifact",
+        "colors": "GW",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Talisman%20of%20Unity.png"
+      }
+    },
+    "name": "Talisman of Unity",
+    "type": "Artifact",
+    "colors": "GW",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "tasha-the-witch-queen": {
+    "id": "tasha-the-witch-queen",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tasha The Witch Queen"
+        },
+        "type": "Planeswalker",
+        "colors": "UB",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Tasha%20The%20Witch%20Queen.png"
+      }
+    },
+    "name": "Tasha The Witch Queen",
+    "type": "Planeswalker",
+    "colors": "UB",
+    "cost": 6,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "tentacle-caretaker": {
+    "id": "tentacle-caretaker",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tentacle Caretaker"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Tentacle%20Caretaker.png"
+      }
+    },
+    "name": "Tentacle Caretaker",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "treasure-cruise": {
+    "id": "treasure-cruise",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Treasure cruise"
+        },
+        "type": "Sorcery",
+        "colors": "U",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Treasure%20cruise.png"
+      }
+    },
+    "name": "Treasure cruise",
+    "type": "Sorcery",
+    "colors": "U",
+    "cost": 8,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ulamogs-nullifier": {
+    "id": "ulamogs-nullifier",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ulamogs Nullifier"
+        },
+        "type": "Creature",
+        "colors": "UB",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Ulamogs%20Nullifier.png"
+      }
+    },
+    "name": "Ulamogs Nullifier",
+    "type": "Creature",
+    "colors": "UB",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "valana-perfected": {
+    "id": "valana-perfected",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Valana Perfected"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Valana%20Perfected.png"
+      }
+    },
+    "name": "Valana Perfected",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "veinwitch-coven": {
+    "id": "veinwitch-coven",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Veinwitch Coven"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Veinwitch%20Coven.png"
+      }
+    },
+    "name": "Veinwitch Coven",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "viessa-luxurious-mistress": {
+    "id": "viessa-luxurious-mistress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Viessa Luxurious Mistress"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Viessa%20Luxurious%20Mistress.png"
+      }
+    },
+    "name": "Viessa Luxurious Mistress",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "vito-thorn-of-the-dusk-rose": {
+    "id": "vito-thorn-of-the-dusk-rose",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Vito Thorn of the Dusk Rose"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Vito%20Thorn%20of%20the%20Dusk%20Rose.png"
+      }
+    },
+    "name": "Vito Thorn of the Dusk Rose",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "void-attendant": {
+    "id": "void-attendant",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Void Attendant"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Void%20Attendant.png"
+      }
+    },
+    "name": "Void Attendant",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "winyra-of-reflections": {
+    "id": "winyra-of-reflections",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Winyra of Reflections"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Winyra%20of%20Reflections.png"
+      }
+    },
+    "name": "Winyra of Reflections",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "world-breaker": {
+    "id": "world-breaker",
+    "face": {
+      "front": {
+        "name": {
+          "name": "World Breaker"
+        },
+        "type": "Creature",
+        "colors": "G",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/World%20Breaker.png"
+      }
+    },
+    "name": "World Breaker",
+    "type": "Creature",
+    "colors": "G",
+    "cost": 8,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "wylla-carnal-instigator": {
+    "id": "wylla-carnal-instigator",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wylla Carnal Instigator"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Wylla%20Carnal%20Instigator.png"
+      }
+    },
+    "name": "Wylla Carnal Instigator",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "zomkal-host-of-fertility": {
+    "id": "zomkal-host-of-fertility",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Zomkal Host of Fertility"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Zomkal%20Host%20of%20Fertility.png"
+      }
+    },
+    "name": "Zomkal Host of Fertility",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "abundant-sorceress": {
+    "id": "abundant-sorceress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Abundant Sorceress"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Abundant%20Sorceress.png"
+      }
+    },
+    "name": "Abundant Sorceress",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "aeliz-recruit-entertainer": {
+    "id": "aeliz-recruit-entertainer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Aeliz Recruit Entertainer"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Aeliz%20Recruit%20Entertainer.png"
+      }
+    },
+    "name": "Aeliz Recruit Entertainer",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "aeniz-voidcaster": {
+    "id": "aeniz-voidcaster",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Aeniz Voidcaster"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Aeniz%20Voidcaster.png"
+      }
+    },
+    "name": "Aeniz Voidcaster",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "alana-vasir-brothelkeeper": {
+    "id": "alana-vasir-brothelkeeper",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Alana Vasir Brothelkeeper"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Alana%20Vasir%20Brothelkeeper.png"
+      }
+    },
+    "name": "Alana Vasir Brothelkeeper",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ancient-lumberknot": {
+    "id": "ancient-lumberknot",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ancient Lumberknot"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Ancient%20Lumberknot.png"
+      }
+    },
+    "name": "Ancient Lumberknot",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "angler-turtle": {
+    "id": "angler-turtle",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Angler Turtle"
+        },
+        "type": "Creature",
+        "colors": "U",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Angler%20Turtle.png"
+      }
+    },
+    "name": "Angler Turtle",
+    "type": "Creature",
+    "colors": "U",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "arath-sanguine-beguiler": {
+    "id": "arath-sanguine-beguiler",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Arath Sanguine Beguiler"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Arath%20Sanguine%20Beguiler.png"
+      }
+    },
+    "name": "Arath Sanguine Beguiler",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "arcane-melee": {
+    "id": "arcane-melee",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Arcane Melee"
+        },
+        "type": "Enchantment",
+        "colors": "U",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Arcane%20Melee.png"
+      }
+    },
+    "name": "Arcane Melee",
+    "type": "Enchantment",
+    "colors": "U",
+    "cost": 6,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "arcane-signet": {
+    "id": "arcane-signet",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Arcane Signet"
+        },
+        "type": "Artifact",
+        "colors": "#",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Arcane%20Signet.png"
+      }
+    },
+    "name": "Arcane Signet",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "arrin-carnal-augurer": {
+    "id": "arrin-carnal-augurer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Arrin Carnal Augurer"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Arrin%20Carnal%20Augurer.png"
+      }
+    },
+    "name": "Arrin Carnal Augurer",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ashia-and-lilea-lust-blossoms": {
+    "id": "ashia-and-lilea-lust-blossoms",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ashia and Lilea Lust Blossoms"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Ashia%20and%20Lilea%20Lust%20Blossoms.png"
+      }
+    },
+    "name": "Ashia and Lilea Lust Blossoms",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "azalea-bashful-trickster": {
+    "id": "azalea-bashful-trickster",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Azalea Bashful Trickster"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Azalea%20Bashful%20Trickster.png"
+      }
+    },
+    "name": "Azalea Bashful Trickster",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "baeloth-barrityl-entertainer": {
+    "id": "baeloth-barrityl-entertainer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Baeloth Barrityl Entertainer"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Baeloth%20Barrityl%20Entertainer.png"
+      }
+    },
+    "name": "Baeloth Barrityl Entertainer",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ballyrush-banneret": {
+    "id": "ballyrush-banneret",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ballyrush Banneret"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Ballyrush%20Banneret.png"
+      }
+    },
+    "name": "Ballyrush Banneret",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "barrenor-fierce-druid": {
+    "id": "barrenor-fierce-druid",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Barrenor Fierce Druid"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Barrenor%20Fierce%20Druid.png"
+      }
+    },
+    "name": "Barrenor Fierce Druid",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "blind-obedience": {
+    "id": "blind-obedience",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blind Obedience"
+        },
+        "type": "Enchantment",
+        "colors": "W",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Blind%20Obedience.png"
+      }
+    },
+    "name": "Blind Obedience",
+    "type": "Enchantment",
+    "colors": "W",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "boon-reflection": {
+    "id": "boon-reflection",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Boon Reflection"
+        },
+        "type": "Enchantment",
+        "colors": "W",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Boon%20Reflection.png"
+      }
+    },
+    "name": "Boon Reflection",
+    "type": "Enchantment",
+    "colors": "W",
+    "cost": 7,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "brainstorm": {
+    "id": "brainstorm",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Brainstorm"
+        },
+        "type": "Instant",
+        "colors": "U",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Brainstorm.png"
+      }
+    },
+    "name": "Brainstorm",
+    "type": "Instant",
+    "colors": "U",
+    "cost": 1,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "caller-of-the-unknown": {
+    "id": "caller-of-the-unknown",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Caller of the Unknown"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Caller%20of%20the%20Unknown.png"
+      }
+    },
+    "name": "Caller of the Unknown",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "captain-of-the-watch": {
+    "id": "captain-of-the-watch",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Captain of the Watch"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Captain%20of%20the%20Watch.png"
+      }
+    },
+    "name": "Captain of the Watch",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 6,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "celestine-the-living-saint": {
+    "id": "celestine-the-living-saint",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Celestine the Living Saint"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Celestine%20the%20Living%20Saint.png"
+      }
+    },
+    "name": "Celestine the Living Saint",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "cheval-awakened-king": {
+    "id": "cheval-awakened-king",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cheval Awakened King"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Cheval%20Awakened%20King.png"
+      }
+    },
+    "name": "Cheval Awakened King",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "cleric-class": {
+    "id": "cleric-class",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cleric Class"
+        },
+        "type": "Enchantment",
+        "colors": "W",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Cleric%20Class.png"
+      }
+    },
+    "name": "Cleric Class",
+    "type": "Enchantment",
+    "colors": "W",
+    "cost": 1,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "commander-larianna": {
+    "id": "commander-larianna",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Commander Larianna"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Commander%20Larianna.png"
+      }
+    },
+    "name": "Commander Larianna",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "commanders-sphere": {
+    "id": "commanders-sphere",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Commanders Sphere"
+        },
+        "type": "Artifact",
+        "colors": "#",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Commanders%20Sphere.png"
+      }
+    },
+    "name": "Commanders Sphere",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "construct": {
+    "id": "construct",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": {
+          "name": "Construct"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Construct.png"
+      }
+    },
+    "name": "Construct",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "creative-outburst": {
+    "id": "creative-outburst",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Creative Outburst"
+        },
+        "type": "Instant",
+        "colors": "UR",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Creative%20Outburst.png"
+      }
+    },
+    "name": "Creative Outburst",
+    "type": "Instant",
+    "colors": "UR",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "devoted-witch": {
+    "id": "devoted-witch",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Devoted Witch"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Devoted%20Witch.png"
+      }
+    },
+    "name": "Devoted Witch",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "disrupt-decorum": {
+    "id": "disrupt-decorum",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Disrupt Decorum"
+        },
+        "type": "Sorcery",
+        "colors": "R",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Disrupt%20Decorum.png"
+      }
+    },
+    "name": "Disrupt Decorum",
+    "type": "Sorcery",
+    "colors": "R",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "dominating-dryad": {
+    "id": "dominating-dryad",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dominating Dryad"
+        },
+        "type": "Creature",
+        "colors": "#",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Dominating%20Dryad.png"
+      }
+    },
+    "name": "Dominating Dryad",
+    "type": "Creature",
+    "colors": "#",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "dreia-the-lustful-fansly": {
+    "id": "dreia-the-lustful-fansly",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dreia the Lustful (Fansly)"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Dreia%20the%20Lustful%20%28Fansly%29.png"
+      }
+    },
+    "name": "Dreia the Lustful (Fansly)",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "edgewalker": {
+    "id": "edgewalker",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Edgewalker"
+        },
+        "type": "Creature",
+        "colors": "WB",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Edgewalker.png"
+      }
+    },
+    "name": "Edgewalker",
+    "type": "Creature",
+    "colors": "WB",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "elas-iliva-prince-of-pleasure": {
+    "id": "elas-iliva-prince-of-pleasure",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Elas Iliva Prince of Pleasure"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Elas%20Iliva%20Prince%20of%20Pleasure.png"
+      }
+    },
+    "name": "Elas Iliva Prince of Pleasure",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "eldrazi-imitator": {
+    "id": "eldrazi-imitator",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Eldrazi Imitator"
+        },
+        "type": "Creature",
+        "colors": "U",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Eldrazi%20Imitator.png"
+      }
+    },
+    "name": "Eldrazi Imitator",
+    "type": "Creature",
+    "colors": "U",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "eldrazi-snare": {
+    "id": "eldrazi-snare",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Eldrazi Snare"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Eldrazi%20Snare.png"
+      }
+    },
+    "name": "Eldrazi Snare",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "elemental-masterpiece": {
+    "id": "elemental-masterpiece",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Elemental Masterpiece"
+        },
+        "type": "Sorcery",
+        "colors": "UR",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Elemental%20Masterpiece.png"
+      }
+    },
+    "name": "Elemental Masterpiece",
+    "type": "Sorcery",
+    "colors": "UR",
+    "cost": 9,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "elizma-the-dominator": {
+    "id": "elizma-the-dominator",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Elizma the Dominator"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Elizma%20the%20Dominator.png"
+      }
+    },
+    "name": "Elizma the Dominator",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "elly-carnal-witch": {
+    "id": "elly-carnal-witch",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Elly Carnal Witch"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Elly%20Carnal%20Witch.png"
+      }
+    },
+    "name": "Elly Carnal Witch",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "elspeth-suns-champion": {
+    "id": "elspeth-suns-champion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Elspeth Suns Champion"
+        },
+        "type": "Planeswalker",
+        "colors": "W",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Elspeth%20Suns%20Champion.png"
+      }
+    },
+    "name": "Elspeth Suns Champion",
+    "type": "Planeswalker",
+    "colors": "W",
+    "cost": 6,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "encroaching-tentacles": {
+    "id": "encroaching-tentacles",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Encroaching Tentacles"
+        },
+        "type": "Instant",
+        "colors": "B",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Encroaching%20Tentacles.png"
+      }
+    },
+    "name": "Encroaching Tentacles",
+    "type": "Instant",
+    "colors": "B",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "etchings-of-the-chosen": {
+    "id": "etchings-of-the-chosen",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Etchings of the Chosen"
+        },
+        "type": "Enchantment",
+        "colors": "B",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Etchings%20of%20the%20Chosen.png"
+      }
+    },
+    "name": "Etchings of the Chosen",
+    "type": "Enchantment",
+    "colors": "B",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "fellwar-stone": {
+    "id": "fellwar-stone",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fellwar Stone"
+        },
+        "type": "Artifact",
+        "colors": "#",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Fellwar%20Stone.png"
+      }
+    },
+    "name": "Fellwar Stone",
+    "type": "Artifact",
+    "colors": "#",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "frogtosser-banneret": {
+    "id": "frogtosser-banneret",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Frogtosser Banneret"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Frogtosser%20Banneret.png"
+      }
+    },
+    "name": "Frogtosser Banneret",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "from-beyond": {
+    "id": "from-beyond",
+    "face": {
+      "front": {
+        "name": {
+          "name": "From Beyond"
+        },
+        "type": "Enchantment",
+        "colors": "G",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/From%20Beyond.png"
+      }
+    },
+    "name": "From Beyond",
+    "type": "Enchantment",
+    "colors": "G",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "geode-rager": {
+    "id": "geode-rager",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Geode Rager"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Geode%20Rager.png"
+      }
+    },
+    "name": "Geode Rager",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 6,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "ghostly-prison": {
+    "id": "ghostly-prison",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ghostly Prison"
+        },
+        "type": "Enchantment",
+        "colors": "W",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Ghostly%20Prison.png"
+      }
+    },
+    "name": "Ghostly Prison",
+    "type": "Enchantment",
+    "colors": "W",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "inamys-spawn-of-vezrolak": {
+    "id": "inamys-spawn-of-vezrolak",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Inamys Spawn of Vezrolak"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Inamys%20Spawn%20of%20Vezrolak.png"
+      }
+    },
+    "name": "Inamys Spawn of Vezrolak",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "inspiring-commander": {
+    "id": "inspiring-commander",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Inspiring Commander"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Inspiring%20Commander.png"
+      }
+    },
+    "name": "Inspiring Commander",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "jaces-sanctum": {
+    "id": "jaces-sanctum",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Jaces Sanctum"
+        },
+        "type": "Enchantment",
+        "colors": "U",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Jaces%20Sanctum.png"
+      }
+    },
+    "name": "Jaces Sanctum",
+    "type": "Enchantment",
+    "colors": "U",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "kazuul-tyrant-of-the-cliffs": {
+    "id": "kazuul-tyrant-of-the-cliffs",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kazuul Tyrant of the Cliffs"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Kazuul%20Tyrant%20of%20the%20Cliffs.png"
+      }
+    },
+    "name": "Kazuul Tyrant of the Cliffs",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lenora-the-submitter": {
+    "id": "lenora-the-submitter",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lenora the Submitter"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Lenora%20the%20Submitter.png"
+      }
+    },
+    "name": "Lenora the Submitter",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lightning-rager": {
+    "id": "lightning-rager",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lightning Rager"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Lightning%20Rager.png"
+      }
+    },
+    "name": "Lightning Rager",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lilla-passionate-bedmate": {
+    "id": "lilla-passionate-bedmate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lilla Passionate Bedmate"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Lilla%20Passionate%20Bedmate.png"
+      }
+    },
+    "name": "Lilla Passionate Bedmate",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lisha-distracting-mage": {
+    "id": "lisha-distracting-mage",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lisha Distracting Mage"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Lisha%20Distracting%20Mage.png"
+      }
+    },
+    "name": "Lisha Distracting Mage",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "lively-quickmage": {
+    "id": "lively-quickmage",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lively Quickmage"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Lively%20Quickmage.png"
+      }
+    },
+    "name": "Lively Quickmage",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "livra-enticed-explorer": {
+    "id": "livra-enticed-explorer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Livra Enticed Explorer"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Livra%20Enticed%20Explorer.png"
+      }
+    },
+    "name": "Livra Enticed Explorer",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "mad-auntie": {
+    "id": "mad-auntie",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mad Auntie"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Mad%20Auntie.png"
+      }
+    },
+    "name": "Mad Auntie",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "maeve-insidious-singer": {
+    "id": "maeve-insidious-singer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Maeve Insidious Singer"
+        },
+        "type": "Creature",
+        "colors": "U",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Maeve%20Insidious%20Singer.png"
+      }
+    },
+    "name": "Maeve Insidious Singer",
+    "type": "Creature",
+    "colors": "U",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "magma-opus": {
+    "id": "magma-opus",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Magma Opus"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Magma%20Opus.png"
+      }
+    },
+    "name": "Magma Opus",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "marauding-blight-priest": {
+    "id": "marauding-blight-priest",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marauding Blight-priest"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Marauding%20Blight-priest.png"
+      }
+    },
+    "name": "Marauding Blight-priest",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "mardu-ascendancy": {
+    "id": "mardu-ascendancy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mardu Ascendancy"
+        },
+        "type": "Enchantment",
+        "colors": "BRW",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Mardu%20Ascendancy.png"
+      }
+    },
+    "name": "Mardu Ascendancy",
+    "type": "Enchantment",
+    "colors": "BRW",
+    "cost": 3,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "medri-twin-peaks-favorite": {
+    "id": "medri-twin-peaks-favorite",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Medri Twin Peaks Favorite"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Medri%20Twin%20Peaks%20Favorite.png"
+      }
+    },
+    "name": "Medri Twin Peaks Favorite",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "metallurgic-summonings": {
+    "id": "metallurgic-summonings",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Metallurgic Summonings"
+        },
+        "type": "Enchantment",
+        "colors": "U",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Metallurgic%20Summonings.png"
+      }
+    },
+    "name": "Metallurgic Summonings",
+    "type": "Enchantment",
+    "colors": "U",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "mind-breaker": {
+    "id": "mind-breaker",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mind Breaker"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Mind%20Breaker.png"
+      }
+    },
+    "name": "Mind Breaker",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "nightmare-shepherd": {
+    "id": "nightmare-shepherd",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nightmare Shepherd"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Nightmare%20Shepherd.png"
+      }
+    },
+    "name": "Nightmare Shepherd",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "paladin-class": {
+    "id": "paladin-class",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Paladin Class"
+        },
+        "type": "Enchantment",
+        "colors": "W",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Paladin%20Class.png"
+      }
+    },
+    "name": "Paladin Class",
+    "type": "Enchantment",
+    "colors": "W",
+    "cost": 2,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "prodigious-proginy": {
+    "id": "prodigious-proginy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Prodigious Proginy"
+        },
+        "type": "Creature",
+        "colors": "U",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Prodigious%20Proginy.png"
+      }
+    },
+    "name": "Prodigious Proginy",
+    "type": "Creature",
+    "colors": "U",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "rescue-retriever": {
+    "id": "rescue-retriever",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rescue Retriever"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Rescue%20Retriever.png"
+      }
+    },
+    "name": "Rescue Retriever",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "rhox-faithmender": {
+    "id": "rhox-faithmender",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rhox Faithmender"
+        },
+        "type": "Creature",
+        "colors": "W",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Rhox%20Faithmender.png"
+      }
+    },
+    "name": "Rhox Faithmender",
+    "type": "Creature",
+    "colors": "W",
+    "cost": 4,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "rite-of-the-raging-storm": {
+    "id": "rite-of-the-raging-storm",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rite of the Raging Storm"
+        },
+        "type": "Enchantment",
+        "colors": "R",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Rite%20of%20the%20Raging%20Storm.png"
+      }
+    },
+    "name": "Rite of the Raging Storm",
+    "type": "Enchantment",
+    "colors": "R",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "river-song": {
+    "id": "river-song",
+    "face": {
+      "front": {
+        "name": {
+          "name": "River Song"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/River%20Song.png"
+      }
+    },
+    "name": "River Song",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "rodolf-duskbringer": {
+    "id": "rodolf-duskbringer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rodolf Duskbringer"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Rodolf%20Duskbringer.png"
+      }
+    },
+    "name": "Rodolf Duskbringer",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sanguine-bond": {
+    "id": "sanguine-bond",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sanguine Bond"
+        },
+        "type": "Enchantment",
+        "colors": "B",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Sanguine%20Bond.png"
+      }
+    },
+    "name": "Sanguine Bond",
+    "type": "Enchantment",
+    "colors": "B",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "satyr-patriarch": {
+    "id": "satyr-patriarch",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Satyr Patriarch"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Satyr%20Patriarch.png"
+      }
+    },
+    "name": "Satyr Patriarch",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "semya-herald-of-submission": {
+    "id": "semya-herald-of-submission",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Semya Herald of Submission"
+        },
+        "type": "Creature",
+        "colors": "BRW",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Semya%20Herald%20of%20Submission.png"
+      }
+    },
+    "name": "Semya Herald of Submission",
+    "type": "Creature",
+    "colors": "BRW",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "shayra-feisty-sorceress": {
+    "id": "shayra-feisty-sorceress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shayra Feisty Sorceress"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Shayra%20Feisty%20Sorceress.png"
+      }
+    },
+    "name": "Shayra Feisty Sorceress",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "siege-gang-commander": {
+    "id": "siege-gang-commander",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Siege-gang Commander"
+        },
+        "type": "Creature",
+        "colors": "R",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Siege-gang%20Commander.png"
+      }
+    },
+    "name": "Siege-gang Commander",
+    "type": "Creature",
+    "colors": "R",
+    "cost": 5,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "sire-of-stagnation": {
+    "id": "sire-of-stagnation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sire of Stagnation"
+        },
+        "type": "Creature",
+        "colors": "UB",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Sire%20of%20Stagnation.png"
+      }
+    },
+    "name": "Sire of Stagnation",
+    "type": "Creature",
+    "colors": "UB",
+    "cost": 6,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "slinking-intruder": {
+    "id": "slinking-intruder",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Slinking Intruder"
+        },
+        "type": "Creature",
+        "colors": "U",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Slinking%20Intruder.png"
+      }
+    },
+    "name": "Slinking Intruder",
+    "type": "Creature",
+    "colors": "U",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
+  },
+  "species-specialist": {
+    "id": "species-specialist",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Species Specialist"
+        },
+        "type": "Creature",
+        "colors": "B",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/elthegamertboy-max/PrivateMTG/refs/heads/main/Extra%20Cards/Species%20Specialist.png"
+      }
+    },
+    "name": "Species Specialist",
+    "type": "Creature",
+    "colors": "B",
+    "cost": 0,
+    "_legal": {
+      "EDH": true
+    }
   }
 }
